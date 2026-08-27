@@ -1,0 +1,110 @@
+{
+  "identifier" : "8F2C1A6B-3D4E-4F5A-9B8C-1A2B3C4D5E6F",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21496790",
+      "localizations" : [],
+      "name" : "NewsU Plus",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6E9DC3F1",
+          "localizations" : [
+            {
+              "description" : "Full access to AI-curated news, prayers, and verses, billed monthly.",
+              "displayName" : "NewsU Plus Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.newsu.app.plus.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "NewsU Plus Monthly",
+          "subscriptionGroupID" : "21496790",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "39.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6E9DC3F2",
+          "localizations" : [
+            {
+              "description" : "Full access to AI-curated news, prayers, and verses. Two months free vs. monthly.",
+              "displayName" : "NewsU Plus Annual",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.newsu.app.plus.annual",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "NewsU Plus Annual",
+          "subscriptionGroupID" : "21496790",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

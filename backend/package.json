@@ -1,0 +1,14 @@
+{
+  "name": "newsu-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Daily curation pipeline for NewsU: real RSS news feeds + Claude for summarization and verse matching.",
+  "scripts": {
+    "curate": "node curate.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "fast-xml-parser": "^5.0.0"
+  }
+}

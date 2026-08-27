@@ -1,0 +1,65 @@
+import SwiftUI
+
+struct TopicChip: View {
+    let topic: Topic
+    let isSelected: Bool
+    let action: () -> Void
+
+    var body: some View {
+        Button(action: action) {
+            HStack(spacing: 8) {
+                Image(systemName: topic.sfSymbol)
+                    .font(.subheadline.weight(.semibold))
+                Text(topic.name)
+                    .font(.subheadline.weight(.medium))
+            }
+            .padding(.horizontal, 16)
+            .padding(.vertical, 12)
+            .foregroundStyle(isSelected ? .white : NewsUTheme.ink)
+            .background(isSelected ? topic.color : NewsUTheme.surface)
+            .clipShape(Capsule())
+            .overlay(
+                Capsule().strokeBorder(isSelected ? .clear : NewsUTheme.divider, lineWidth: 1)
+            )
+        }
+        .buttonStyle(.plain)
+        .animation(.spring(response: 0.3, dampingFraction: 0.7), value: isSelected)
+    }
+}
+
+struct FlowLayout: Layout {
+    var spacing: CGFloat = 10
+
+    func sizeThatFits(proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) -> CGSize {
+        let width = proposal.width ?? .infinity
+        var x: CGFloat = 0, y: CGFloat = 0, rowHeight: CGFloat = 0
+
+        for view in subviews {
+            let size = view.sizeThatFits(.unspecified)
+            if x + size.width > width, x > 0 {
+                x = 0
+                y += rowHeight + spacing
+                rowHeight = 0
+            }
+            x += size.width + spacing
+            rowHeight = max(rowHeight, size.height)
+        }
+        return CGSize(width: width, height: y + rowHeight)
+    }
+
+    func placeSubviews(in bounds: CGRect, proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) {
+        var x = bounds.minX, y = bounds.minY, rowHeight: CGFloat = 0
+
+        for view in subviews {
+            let size = view.sizeThatFits(.unspecified)
+            if x + size.width > bounds.maxX, x > bounds.minX {
+                x = bounds.minX
+                y += rowHeight + spacing
+                rowHeight = 0
+            }
+            view.place(at: CGPoint(x: x, y: y), proposal: ProposedViewSize(size))
+            x += size.width + spacing
+            rowHeight = max(rowHeight, size.height)
+        }
+    }
+}

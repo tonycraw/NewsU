@@ -1,0 +1,151 @@
+{
+  "date": "2026-08-27T07:00:00Z",
+  "greeting": "Good morning, friend",
+  "openingPrayer": {
+    "title": "A Steady Heart",
+    "body": "Lord, before I read a single headline today, settle my heart in Your peace. Whatever the news holds — conflict, uncertainty, or change — remind me that You are already there, already at work, already good. Give me a spirit of discernment, not anxiety, and a heart that stays soft toward the people behind every story. Amen."
+  },
+  "sections": [
+    {
+      "topicId": "world",
+      "articles": [
+        {
+          "id": "w1",
+          "headline": "Regional Ceasefire Talks Extend Into Third Week",
+          "source": "Reuters",
+          "summary": "Mediators report incremental progress on a humanitarian corridor agreement, though a full ceasefire remains unresolved. Aid groups say the pause has already allowed medical supplies into two previously cut-off districts.",
+          "url": "https://www.reuters.com/world/",
+          "publishedAt": "2026-08-27T05:12:00Z",
+          "trustNote": "Corroborated by 3 wire services"
+        },
+        {
+          "id": "w2",
+          "headline": "Coastal Nations Sign Joint Disaster-Response Pact",
+          "source": "Associated Press",
+          "summary": "Twelve Pacific and Caribbean nations agreed to share early-warning data and emergency resources ahead of this year's storm season, following back-to-back severe seasons.",
+          "url": "https://apnews.com/",
+          "publishedAt": "2026-08-26T22:40:00Z",
+          "trustNote": "Primary source: official summit statement"
+        }
+      ],
+      "verse": {
+        "reference": "Philippians 4:6-7",
+        "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+        "reflection": "Reflection: Conflict overseas can feel far away and yet heavy on the heart. This verse doesn't ask us to look away — it invites us to carry what we've read into prayer instead of worry."
+      }
+    },
+    {
+      "topicId": "faith",
+      "articles": [
+        {
+          "id": "f1",
+          "headline": "Rural Churches Report Rising Attendance for Third Straight Year",
+          "source": "Religion News Service",
+          "summary": "A new survey finds small-town congregations growing even as denominational membership declines nationally, with pastors citing community meals and small groups as the biggest draw.",
+          "url": "https://religionnews.com/",
+          "publishedAt": "2026-08-26T14:05:00Z",
+          "trustNote": "Based on peer-reviewed survey data"
+        },
+        {
+          "id": "f2",
+          "headline": "Faith-Based Nonprofits Expand Mental Health Partnerships",
+          "source": "Christianity Today",
+          "summary": "A growing number of churches are pairing with licensed counselors to offer free sessions, part of a broader push to treat mental health care as a ministry priority rather than an afterthought.",
+          "url": "https://www.christianitytoday.com/",
+          "publishedAt": "2026-08-26T09:30:00Z",
+          "trustNote": "Corroborated by 2 outlets"
+        }
+      ],
+      "verse": {
+        "reference": "Psalm 34:18",
+        "text": "The LORD is close to the brokenhearted and saves those who are crushed in spirit.",
+        "reflection": "Reflection: Whether it's a congregation growing or a church opening its doors to mental health care, the thread is the same — God draws near to people exactly where they're hurting."
+      }
+    },
+    {
+      "topicId": "technology",
+      "articles": [
+        {
+          "id": "t1",
+          "headline": "New AI Safety Standards Proposed for Consumer Devices",
+          "source": "The Wall Street Journal",
+          "summary": "A coalition of manufacturers has proposed shared testing benchmarks for AI features in home devices, aiming to get ahead of regulation with industry-wide transparency reports.",
+          "url": "https://www.wsj.com/tech/",
+          "publishedAt": "2026-08-27T04:00:00Z",
+          "trustNote": "Corroborated by 4 outlets"
+        },
+        {
+          "id": "t2",
+          "headline": "Rural Broadband Expansion Passes Halfway Mark",
+          "source": "Associated Press",
+          "summary": "Federal infrastructure funding has now connected over half of its target underserved communities to high-speed internet, two years ahead of the original timeline.",
+          "url": "https://apnews.com/hub/technology",
+          "publishedAt": "2026-08-26T18:15:00Z",
+          "trustNote": "Primary source: agency progress report"
+        }
+      ],
+      "verse": {
+        "reference": "Ecclesiastes 7:12",
+        "text": "Wisdom is a shelter as money is a shelter, but the advantage of knowledge is this: Wisdom preserves those who have it.",
+        "reflection": "Reflection: New technology always outruns our wisdom about how to use it well. This verse is a quiet nudge to ask not just 'can we?' but 'should we, and how carefully?'"
+      }
+    },
+    {
+      "topicId": "business",
+      "articles": [
+        {
+          "id": "b1",
+          "headline": "Hiring Steadies After Two Volatile Quarters",
+          "source": "Bloomberg",
+          "summary": "New jobs data shows hiring leveling off across manufacturing and services, easing fears of a sharper slowdown while wage growth continues to moderate.",
+          "url": "https://www.bloomberg.com/",
+          "publishedAt": "2026-08-27T03:30:00Z",
+          "trustNote": "Corroborated by government data release"
+        },
+        {
+          "id": "b2",
+          "headline": "Small Business Loan Applications Tick Upward",
+          "source": "Reuters",
+          "summary": "Community banks report a modest rise in small business loan applications this quarter, a signal some economists read as cautious optimism heading into fall.",
+          "url": "https://www.reuters.com/business/",
+          "publishedAt": "2026-08-26T20:10:00Z",
+          "trustNote": "Corroborated by 2 outlets"
+        }
+      ],
+      "verse": {
+        "reference": "Proverbs 3:5-6",
+        "text": "Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+        "reflection": "Reflection: Markets rise and steady and dip again — that's just what they do. This verse points to something sturdier than a quarterly report to build your trust on."
+      }
+    },
+    {
+      "topicId": "health",
+      "articles": [
+        {
+          "id": "h1",
+          "headline": "Study Links Consistent Sleep Schedules to Lower Heart Risk",
+          "source": "Associated Press",
+          "summary": "A decade-long study of over 70,000 adults found that consistent sleep and wake times were more strongly linked to heart health than total hours slept.",
+          "url": "https://apnews.com/hub/health",
+          "publishedAt": "2026-08-26T16:45:00Z",
+          "trustNote": "Peer-reviewed, published study"
+        },
+        {
+          "id": "h2",
+          "headline": "Community Health Clinics Expand Telehealth Access",
+          "source": "Reuters",
+          "summary": "Federally funded clinics are rolling out expanded video-visit options for rural patients, aiming to close gaps in specialist access outside major cities.",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/",
+          "publishedAt": "2026-08-26T12:20:00Z",
+          "trustNote": "Primary source: agency announcement"
+        }
+      ],
+      "verse": {
+        "reference": "Isaiah 41:10",
+        "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you.",
+        "reflection": "Reflection: Health news can stir up worry fast, whether it's about our own bodies or the systems meant to care for them. This verse offers strength that doesn't depend on a diagnosis."
+      }
+    }
+  ],
+  "closingBlessing": "Whatever today holds, go into it steady — you've already been reminded who's holding it. — Numbers 6:24-26"
+}
