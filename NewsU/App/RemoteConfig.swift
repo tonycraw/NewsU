@@ -14,5 +14,7 @@ enum RemoteConfig {
     ///
     /// Leave it `nil` to keep using the bundled sample data — the app works
     /// fully either way.
-    static let briefURL: URL? = nil
+    static let briefURL: URL? = URL(string:
+        "https://raw.githubusercontent.com/tonycraw/NewsU/main/public/brief-latest.json"
+    )
 }
