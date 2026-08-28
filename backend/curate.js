@@ -99,7 +99,14 @@ function extractJSON(message) {
   try {
     return JSON.parse(cleaned);
   } catch (err) {
-    console.error("Failed to parse JSON from Claude's response. Raw text was:");
+    if (message.stop_reason === "max_tokens") {
+      console.error(
+        `Claude's response was cut off by the max_tokens limit before finishing the JSON. ` +
+        `Raise max_tokens in the anthropic.messages.create() call this came from. Raw (truncated) text was:`
+      );
+    } else {
+      console.error("Failed to parse JSON from Claude's response. Raw text was:");
+    }
     console.error(textBlock.text);
     throw err;
   }
@@ -181,7 +188,7 @@ Respond with ONLY valid JSON matching this shape:
 
   const message = await anthropic.messages.create({
     model: "claude-sonnet-5",
-    max_tokens: 1200,
+    max_tokens: 2048,
     messages: [{ role: "user", content: prompt }]
   });
 
@@ -206,7 +213,7 @@ Respond with ONLY valid JSON: { "title": "", "body": "" }`;
 
   const message = await anthropic.messages.create({
     model: "claude-sonnet-5",
-    max_tokens: 300,
+    max_tokens: 500,
     messages: [{ role: "user", content: prompt }]
   });
 
