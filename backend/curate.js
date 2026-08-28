@@ -79,6 +79,32 @@ function stripHtml(value) {
   return decodeEntities(String(value).replace(/<[^>]+>/g, "")).replace(/\s+/g, " ").trim();
 }
 
+/**
+ * Pulls the JSON payload out of a Claude response. Deliberately not just
+ * `message.content[0].text` — some responses include a non-text block first
+ * (e.g. thinking), and models occasionally wrap JSON in a ```json fence
+ * despite being told not to. This handles both, and if the text truly can't
+ * be found or parsed, logs the full raw response so the real cause is
+ * visible in the Action's log instead of a bare "undefined is not valid JSON".
+ */
+function extractJSON(message) {
+  const textBlock = message.content?.find((block) => block.type === "text");
+  if (!textBlock?.text) {
+    console.error("Unexpected Claude response — no text block found:");
+    console.error(JSON.stringify(message, null, 2));
+    throw new Error(`Claude response had no text content (stop_reason: ${message.stop_reason ?? "unknown"})`);
+  }
+
+  const cleaned = textBlock.text.trim().replace(/^```(?:json)?\n?/, "").replace(/\n?```$/, "");
+  try {
+    return JSON.parse(cleaned);
+  } catch (err) {
+    console.error("Failed to parse JSON from Claude's response. Raw text was:");
+    console.error(textBlock.text);
+    throw err;
+  }
+}
+
 /** Step 1: pull and parse raw headlines for a topic from its RSS feeds. */
 async function fetchHeadlinesForTopic(topicId) {
   const feedUrls = FEEDS_BY_TOPIC[topicId] || [];
@@ -159,7 +185,7 @@ Respond with ONLY valid JSON matching this shape:
     messages: [{ role: "user", content: prompt }]
   });
 
-  return JSON.parse(message.content[0].text);
+  return extractJSON(message);
 }
 
 /** Step 3: one short opening prayer that reads the room on today's news as a whole. */
@@ -184,7 +210,7 @@ Respond with ONLY valid JSON: { "title": "", "body": "" }`;
     messages: [{ role: "user", content: prompt }]
   });
 
-  return JSON.parse(message.content[0].text);
+  return extractJSON(message);
 }
 
 export async function buildTodaysBrief(topicIds = Object.keys(FEEDS_BY_TOPIC)) {
