@@ -1,9 +1,9 @@
 {
-  "date": "2026-08-28T14:21:11Z",
+  "date": "2026-08-31T15:50:58Z",
   "greeting": "Good morning, friend",
   "openingPrayer": {
     "title": "Steady My Heart",
-    "body": "Lord, before I read what this day holds, steady my heart in Your peace. The world carries grief and uncertainty, yet You remain unshaken, near to the brokenhearted and mighty to save. Give me eyes to see with compassion, a mind grounded in truth, and a spirit that trusts Your sovereignty over every headline. Where there is sorrow, let me grieve with hope; where there is good news, let me rejoice with gratitude. Keep my heart anchored in You alone, today and always. Amen."
+    "body": "Lord, before I read what today holds, quiet my heart in Your peace. The world carries heavy news—loss, conflict, and uncertainty—but You remain unshaken above it all. Help me see with clear eyes and a compassionate heart, neither numb to sorrow nor swallowed by fear. Remind me that You are near to the brokenhearted and sovereign over every headline. Fill me with Your steady hope, that I might carry it to others today. Amen."
   },
   "sections": [
     {
@@ -11,27 +11,27 @@
       "articles": [
         {
           "id": "world-0",
-          "publishedAt": "2026-08-28T14:18:36Z",
-          "headline": "Hundreds killed, over 1,000 missing after flash floods in Nepal and Tibet",
-          "source": "NPR Topics: World",
-          "summary": "Flash floods along the Nepal-Tibet border have killed hundreds of people and left more than 1,000 missing, according to NPR. The floods swept away roads, bridges, and entire villages. BBC News reports that experts now fear a newly formed barrier lake, created by a recent landslide in the area, could trigger a second flood.",
-          "url": "https://www.npr.org/2026/08/28/nx-s1-5946732/hundreds-killed-over-1-000-missing-after-flash-floods-in-nepal-and-tibet",
-          "trustNote": "Corroborated by NPR (multiple reports) and BBC News"
+          "publishedAt": "2026-08-31T15:48:23Z",
+          "headline": "US and Iran trade strikes for first time in weeks",
+          "source": "BBC News",
+          "summary": "The United States and Iran exchanged military strikes for the first time since late July, according to BBC News and NPR. BBC reports a US strike on Larak Island in the Strait of Hormuz killed two people and injured two others, while NPR states Iran retaliated against US targets in the United Arab Emirates and Jordan. The exchange ends a monthlong pause in direct hostilities between the two countries.",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
         },
         {
           "id": "world-1",
-          "publishedAt": "2026-08-28T14:18:36Z",
-          "headline": "Norway's King Harald V dies at 89 and his son becomes King Haakon VIII",
-          "source": "NPR Topics: World",
-          "summary": "King Harald V of Norway has died at age 89, according to NPR, and his son has become King Haakon VIII. NPR notes Harald lived in exile in the United States as a child during the Nazi occupation of Norway and later married his school sweetheart rather than a European noblewoman. BBC News reports the transition comes at a turbulent time for Norway's monarchy, with Oslo's mayor postponing her own wedding out of respect.",
-          "url": "https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii",
-          "trustNote": "Corroborated by NPR and BBC News"
+          "publishedAt": "2026-08-31T15:48:23Z",
+          "headline": "Children missing after ferry sinks off northern Cyprus",
+          "source": "BBC News",
+          "summary": "A ferry sank off the coast of northern Cyprus, killing eight people and leaving 20 others missing, BBC News reports. Among the missing are the two young children of Ayten and Hayri Bicer, whose account of the moment they lost hold of their daughter was described in the report.",
+          "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Psalm 46:1-2",
-        "text": "God is our refuge and strength, an ever-present help in trouble. Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea.",
-        "reflection": "For the families in Nepal still searching for loved ones amid the floodwaters, and for a nation mourning the loss of a king, this psalm offers a steady anchor: even when the ground beneath us gives way, God remains a refuge close at hand."
+        "reference": "Isaiah 43:2",
+        "text": "When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you.",
+        "reflection": "For families waiting for news off the coast of Cyprus, and for nations bracing against renewed conflict, this promise doesn't erase the fear—but it holds out a presence that doesn't abandon us in deep water. Let it shape a quiet prayer for those still searching, and for peace where strikes have flared again."
       }
     },
     {
@@ -39,27 +39,27 @@
       "articles": [
         {
           "id": "us-0",
-          "publishedAt": "2026-08-28T14:18:48Z",
-          "headline": "Judge rules Pentagon's actions against Anthropic were 'illegal and baseless'",
+          "publishedAt": "2026-08-31T15:48:38Z",
+          "headline": "At least 15 people missing after Grand Canyon flash flood",
           "source": "NPR Topics: National",
-          "summary": "A federal judge issued a written order stating the Pentagon acted illegally in punishing AI company Anthropic over its criticism of the Department of Defense's approach to AI use, according to NPR and BBC News. The government is expected to appeal the ruling. The dispute centers on tensions between the Trump administration and the AI startup over military use of artificial intelligence.",
-          "url": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
-          "trustNote": "Corroborated by 2 outlets (NPR, BBC News)"
+          "summary": "A sudden flash flood struck the Grand Canyon on Saturday, killing at least one person and leaving more than a dozen others missing, according to BBC News and NPR. Witnesses described chaotic scenes as hikers scrambled to safety amid what one described as a 'terrifying' and 'beautiful day' turned tragic. Search efforts for the missing were ongoing as of Sunday.",
+          "url": "https://www.npr.org/2026/08/31/nx-s1-5949409/at-least-15-people-missing-after-grand-canyon-flash-flood",
+          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
         },
         {
           "id": "us-1",
-          "publishedAt": "2026-08-28T14:18:48Z",
-          "headline": "Jury deliberates in murder trial of Lindsay Clancy",
+          "publishedAt": "2026-08-31T15:48:38Z",
+          "headline": "US and Iran trade strikes for first time in weeks",
           "source": "BBC News",
-          "summary": "A jury has begun deliberating in the trial of Lindsay Clancy, a Massachusetts woman accused of killing her three young children, according to BBC News and NPR. Prosecutors argued the killings were a calculated act, while the defense contended Clancy was suffering from postpartum psychosis at the time. Closing statements from both sides were delivered before deliberations began.",
-          "url": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
+          "summary": "The United States and Iran exchanged strikes for the first time in several weeks, with an American attack on Larak Island in the Strait of Hormuz killing two people and injuring two others, according to BBC News. The report notes this marks the first known US strike in the region since late July, signaling renewed tension after a period of relative calm.",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Micah 6:8",
-        "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
-        "reflection": "Today's headlines hold both a court weighing government overreach and a jury wrestling with a mother's unimaginable tragedy and mental illness. In both, we're reminded that true justice never stands apart from mercy — a balance only God can fully hold, and one we're called to seek even in our hardest judgments."
+        "reference": "Psalm 46:1-3",
+        "text": "God is our refuge and strength, an ever-present help in trouble. Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea, though its waters roar and foam and the mountains quake with their surging.",
+        "reflection": "Between rushing floodwaters in the Grand Canyon and rising tensions abroad, today's news carries real fear and uncertainty. This psalm doesn't deny the chaos—it names it—but points us to a steady refuge amid the surge, a reminder to hold onto hope even when the ground feels unsteady."
       }
     },
     {
@@ -67,27 +67,27 @@
       "articles": [
         {
           "id": "politics-0",
-          "publishedAt": "2026-08-28T14:19:18Z",
-          "headline": "Norway's King Harald V dies at 89 and his son becomes King Haakon VIII",
+          "publishedAt": "2026-08-31T15:48:55Z",
+          "headline": "Trump says U.S. struck deal to take control of 65 billion barrels of Venezuelan oil",
           "source": "NPR Topics: Politics",
-          "summary": "Norway's King Harald V has died at the age of 89, according to NPR and BBC News. His son, now known as King Haakon VIII, has ascended to the throne, with BBC News noting the transition comes at a turbulent time for Norway's monarchy. Related ceremonies and events, including a planned Oslo wedding, have reportedly been postponed following the king's death.",
-          "url": "https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii",
-          "trustNote": "Corroborated by 3 outlets (NPR and two BBC News reports)"
+          "summary": "President Trump announced that the United States has reached a deal giving it a majority stake in developing roughly 65 billion barrels of Venezuelan oil reserves, according to NPR. Energy expert Francisco Monaldi of Rice University discussed the claims with NPR, and a separate NPR report noted that experts are skeptical the arrangement will lower U.S. gas prices or produce quick benefits for Americans.",
+          "url": "https://www.npr.org/2026/08/31/nx-s1-5949305/trump-says-u-s-struck-deal-to-take-control-of-65-billion-barrels-venezuelan-oil",
+          "trustNote": "Corroborated by 3 separate NPR reports on the same deal"
         },
         {
           "id": "politics-1",
-          "publishedAt": "2026-08-28T14:19:18Z",
-          "headline": "Trump signs order renaming Lake Ontario to Lake America",
-          "source": "NPR Topics: Politics",
-          "summary": "President Trump has signed an executive order renaming Lake Ontario as 'Lake America,' according to NPR and BBC News. BBC News reports that Canada has rejected the new name, since the lake straddles both countries, deepening tensions between the two nations. The dispute adds to ongoing friction in U.S.-Canada relations.",
-          "url": "https://www.npr.org/2026/08/28/nx-s1-5946811/trump-signs-order-renaming-lake-ontario-to-lake-america",
-          "trustNote": "Corroborated by 2 outlets (NPR and BBC News)"
+          "publishedAt": "2026-08-31T15:48:55Z",
+          "headline": "US and Iran trade strikes for first time in weeks",
+          "source": "BBC News",
+          "summary": "The BBC reports that the U.S. and Iran exchanged strikes for the first time in several weeks, with an American strike on Larak Island in the Strait of Hormuz killing two people and injuring two others. The report describes this as the first known U.S. strike in the region since late July.",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Daniel 2:21",
-        "text": "He changes times and seasons; he removes kings and sets up kings; he gives wisdom to the wise and knowledge to those who have understanding.",
-        "reflection": "Today's news carries the weight of thrones changing hands and nations disputing even the names on their maps — reminders that human power is always shifting. In the midst of it, this verse invites us to trust that God's authority over history remains steady, even when ours feels uncertain."
+        "reference": "Proverbs 21:1",
+        "text": "The king's heart is a stream of water in the hand of the LORD; he turns it wherever he will.",
+        "reflection": "Whether it's a disputed oil deal or the fragile tension between nations, today's headlines remind us how much power rests in the hands of leaders — and how much more rests in God's. We can pray for wisdom and restraint for those making these decisions, trusting that history ultimately unfolds under a sovereign hand."
       }
     },
     {
@@ -95,27 +95,27 @@
       "articles": [
         {
           "id": "business-0",
-          "publishedAt": "2026-08-28T14:19:30Z",
-          "headline": "Businesses are getting tariff refunds. Why aren't consumers getting their cut?",
+          "publishedAt": "2026-08-31T15:49:16Z",
+          "headline": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
           "source": "NPR Topics: Business",
-          "summary": "According to NPR, numerous American companies are receiving billions of dollars in tariff refunds following a Supreme Court ruling. NPR reports that many consumers who paid higher prices due to those tariffs may not see any of that money returned to them.",
-          "url": "https://www.npr.org/2026/08/28/nx-s1-5946782/businesses-getting-tariff-refunds-why-arent-consumers-getting-their-cut",
-          "trustNote": "Single source: NPR Topics: Business"
+          "summary": "Federal Reserve Chair Kevin Warsh said in a major speech that inflation remains too high, according to both NPR and BBC News. His remarks have raised market expectations that interest rate hikes may follow, though he did not lay out a specific policy path. BBC News reports Warsh indicated the Fed still has 'work to do' if price increases don't ease for Americans.",
+          "url": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
+          "trustNote": "Corroborated by 2 outlets (NPR, BBC News)"
         },
         {
           "id": "business-1",
-          "publishedAt": "2026-08-28T14:19:30Z",
-          "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
-          "source": "NPR Topics: Business",
-          "summary": "NPR reports that Treasury Secretary Scott Bessent claimed new oil pipelines will render the Strait of Hormuz irrelevant within two years. However, NPR notes that energy experts are skeptical this outcome is likely, given the strait's continued importance to global oil transport.",
-          "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
-          "trustNote": "Single source: NPR Topics: Business"
+          "publishedAt": "2026-08-31T15:49:16Z",
+          "headline": "'Not far enough' - US parents and teens on Meta's new limits for young users",
+          "source": "BBC News",
+          "summary": "Meta announced new restrictions on Facebook and Instagram for younger users as part of an $18 billion settlement in a child-safety lawsuit, according to BBC News. BBC interviewed parents and teens who said the changes do not go far enough, while NPR separately gathered reactions from teenage social media users on whether the restrictions will actually affect their habits.",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
         }
       ],
       "verse": {
-        "reference": "Proverbs 11:1",
-        "text": "A false balance is an abomination to the Lord, but a just weight is his delight.",
-        "reflection": "When refunds flow easily to corporations but not to the everyday people who paid the price, it's worth remembering that God cares deeply about fairness in every transaction, big or small. May today's leaders and markets be shaped by honesty, not just efficiency."
+        "reference": "Philippians 4:6-7",
+        "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+        "reflection": "Between warnings of rising prices and worries over how technology shapes our children, it's easy for hearts to grow uneasy. This verse invites us to bring both our financial concerns and our family concerns before God, trusting His peace to steady us in uncertain seasons."
       }
     },
     {
@@ -123,27 +123,27 @@
       "articles": [
         {
           "id": "technology-0",
-          "publishedAt": "2026-08-28T14:19:48Z",
-          "headline": "$17B settlement between Meta, states also comes with new safeguards for teens",
+          "publishedAt": "2026-08-31T15:49:36Z",
+          "headline": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
           "source": "NPR Topics: Technology",
-          "summary": "Meta has reached a $17 billion settlement with U.S. states over concerns about child safety on Facebook and Instagram, according to NPR. The agreement introduces new safeguards for teen users, and a former Meta researcher weighed in on whether the changes will be effective in practice. BBC News reports the settlement is also prompting scrutiny of other platforms, including TikTok and YouTube, as regulators consider broader reforms to protect young users online.",
-          "url": "https://www.npr.org/2026/08/27/nx-s1-5945288/17b-settlement-between-meta-states-also-comes-with-new-safeguards-for-teens",
-          "trustNote": "Corroborated across multiple NPR reports and BBC News."
+          "summary": "Meta has agreed to pay billions and implement new protections for minors as part of a settlement with state attorneys general, according to NPR. Reported changes include restricting teen access to Instagram and Facebook during school hours and at night. Researchers and child-safety advocates cited by NPR say the agreement could set a precedent for how other social media and AI companies handle young users.",
+          "url": "https://www.npr.org/2026/08/29/nx-s1-5947960/instagram-meta-social-media-teens",
+          "trustNote": "Reported by NPR across three separate articles covering different angles of the same settlement."
         },
         {
           "id": "technology-1",
-          "publishedAt": "2026-08-28T14:19:48Z",
-          "headline": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
+          "publishedAt": "2026-08-31T15:49:36Z",
+          "headline": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
           "source": "NPR Topics: Technology",
-          "summary": "A federal judge ruled that the Pentagon acted illegally when it took punitive action against AI company Anthropic after the company criticized the Department of Defense's approach to AI, NPR reports. The written order, issued Thursday night, described the government's measures as baseless. NPR notes the government is expected to challenge the ruling.",
-          "url": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
-          "trustNote": "Single source: NPR Topics: Technology."
+          "summary": "NPR reports that AI-generated deepfake videos of late-night hosts like Jimmy Kimmel and Jon Stewart are circulating on social media. The outlet notes these clips are easier to produce than other celebrity deepfakes and could be especially disruptive because of how convincingly they mimic recognizable public figures.",
+          "url": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
+          "trustNote": "Single source: NPR."
         }
       ],
       "verse": {
-        "reference": "Psalm 82:3",
-        "text": "Defend the weak and the fatherless; uphold the cause of the poor and the oppressed.",
-        "reflection": "Today's news touches both the protection of children online and a court standing up against unjust use of power—two reminders that justice and care for the vulnerable matter in every arena, even the digital one. May we trust that these small, hard-won steps toward accountability reflect a deeper call to defend those who cannot defend themselves."
+        "reference": "Philippians 4:8",
+        "text": "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.",
+        "reflection": "In a week when fabricated videos blur the line between real and false, and companies wrestle with how to protect the youngest among us online, this verse offers a steady anchor: seek what is true and good, and let that shape what you watch, share, and trust."
       }
     },
     {
@@ -151,27 +151,27 @@
       "articles": [
         {
           "id": "health-0",
-          "publishedAt": "2026-08-28T14:20:01Z",
-          "headline": "UK salmonella cases nearing 500 as egg investigations continue",
-          "source": "BBC News",
-          "summary": "BBC News reports that a salmonella outbreak linked to imported eggs has sickened close to 500 people across the UK, according to health authorities. Investigators are continuing to examine additional clusters of illness as the outbreak grows.",
-          "url": "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 BBC News reports"
+          "publishedAt": "2026-08-31T15:49:52Z",
+          "headline": "Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination claims",
+          "source": "NPR Topics: Health",
+          "summary": "NPR reports that two deaths linked to a measles outbreak in Pennsylvania have prompted public statements from Health Secretary Robert F. Kennedy Jr. that reportedly both encouraged and cast doubt on vaccination. The deaths have intensified public debate over vaccine messaging from federal health officials.",
+          "url": "https://www.npr.org/2026/08/29/nx-s1-5946842/pennsylvania-measles-deaths-ignite-clash-over-rfk-jr-s-vaccination-claims",
+          "trustNote": "Single source: NPR"
         },
         {
           "id": "health-1",
-          "publishedAt": "2026-08-28T14:20:01Z",
-          "headline": "FDA approves landmark pancreatic cancer drug that's shown to improve survival",
-          "source": "NPR Topics: Health",
-          "summary": "NPR reports that U.S. health officials have approved a new pancreatic cancer drug shown to improve patient survival rates. The drug works by blocking a protein that fuels tumor growth in the majority of pancreatic cancer cases, according to the report.",
-          "url": "https://www.npr.org/2026/08/27/g-s1-140410/fda-approves-landmark-pancreatic-cancer-drug",
-          "trustNote": "Single source: NPR"
+          "publishedAt": "2026-08-31T15:49:52Z",
+          "headline": "UK salmonella cases nearing 500 as egg investigations continue",
+          "source": "BBC News",
+          "summary": "BBC News reports that a salmonella outbreak linked to imported eggs has sickened close to 500 people in the UK, with health authorities continuing to investigate additional clusters. A related BBC report notes officials are still working to determine the full scope of contamination.",
+          "url": "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated across two BBC News reports on the same outbreak"
         }
       ],
       "verse": {
-        "reference": "Psalm 41:3",
-        "text": "The Lord sustains him on his sickbed and restores him from his bed of illness.",
-        "reflection": "Whether it's an outbreak spreading fear through a community or a new drug offering fresh hope to cancer patients, healing remains a fragile and precious gift. May we hold both the sick and the scientists working to help them in our prayers today."
+        "reference": "Psalm 103:2-3",
+        "text": "Bless the Lord, O my soul, and forget not all his benefits, who forgives all your iniquity, who heals all your diseases.",
+        "reflection": "In a week marked by outbreaks and conflicting health messages, it's worth remembering that healing—physical and otherwise—is ultimately held by a God who cares deeply for the sick and the confused. May those affected by illness today find both wise medical care and quiet reassurance that they are not forgotten."
       }
     },
     {
@@ -179,27 +179,27 @@
       "articles": [
         {
           "id": "science-0",
-          "publishedAt": "2026-08-28T14:20:19Z",
-          "headline": "A melting glacier contributed to the deadly Nepal floods. We can expect more like this",
-          "source": "NPR Topics: Science",
-          "summary": "According to NPR, scientists say a glacial collapse in the Himalayas triggered flash floods that killed and displaced people across Nepal and Tibet, with researchers warning that a warming climate will make such disasters more frequent. BBC News reports that more than 1,300 people remain missing, including dozens of Americans and Canadians, and survivors have described family members being swept away by the floodwaters. BBC's separate coverage confirms experts point to glacial collapse as the flood's trigger.",
-          "url": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas",
-          "trustNote": "Corroborated by 2 outlets (NPR and BBC News, multiple articles)"
+          "publishedAt": "2026-08-31T15:50:12Z",
+          "headline": "'A giant leap forward': Nasa launches powerful new space telescope",
+          "source": "BBC News",
+          "summary": "NASA launched the Nancy Grace Roman Space Telescope, which BBC News describes as beginning a multi-year mission to map the universe and study dark energy and dark matter. NPR reports the telescope, roughly the size of a tour bus, aims to identify more than 100,000 planets beyond our solar system.",
+          "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 outlets (BBC News and NPR)"
         },
         {
           "id": "science-1",
-          "publishedAt": "2026-08-28T14:20:19Z",
-          "headline": "NASA is about to launch a space telescope that could change how we see the universe",
+          "publishedAt": "2026-08-31T15:50:12Z",
+          "headline": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
           "source": "NPR Topics: Science",
-          "summary": "NPR reports that NASA's Nancy Grace Roman Space Telescope is scheduled to launch on August 30, with a mission to investigate major cosmic questions including the nature of dark energy and the behavior of supernovae. The telescope is expected to expand astronomers' ability to study large regions of the universe in detail.",
-          "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+          "summary": "A two-year NPR investigation found that heat-related deaths in the United States occur far more often than official government counts indicate. The report examines why these deaths go undercounted and explores measures that could help reduce future fatalities.",
+          "url": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
           "trustNote": "Single source: NPR"
         }
       ],
       "verse": {
-        "reference": "Isaiah 43:2",
-        "text": "When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you.",
-        "reflection": "As families in Nepal grieve loved ones swept away by floodwaters, this promise doesn't erase the sorrow but reminds us that God does not abandon us in the deep places. Even as we marvel at new telescopes unveiling the vastness of creation, may we hold close the truth that the same God who set the stars in place walks with the suffering here on earth."
+        "reference": "Psalm 8:3-4",
+        "text": "When I consider your heavens, the work of your fingers, the moon and the stars, which you have set in place, what is mankind that you are mindful of them, human beings that you care for them?",
+        "reflection": "As a new telescope sets out to map the vastness of the cosmos, it's humbling to remember that the God who ordered the stars also grieves over lives quietly lost to heat, lives that too often go uncounted. He is mindful of both the galaxies and the grieving."
       }
     },
     {
@@ -207,27 +207,27 @@
       "articles": [
         {
           "id": "faith-0",
-          "publishedAt": "2026-08-28T14:20:40Z",
-          "headline": "‘Our immigrants are invisible’: A pastor ministers to the frightened at immigration court",
+          "publishedAt": "2026-08-31T15:50:30Z",
+          "headline": "Catastrophic floods kill over 390 in Nepal and Tibet, with more than 1,400 missing",
           "source": "RNS",
-          "summary": "The Rev. Eduardo Fabian Arias, a Lutheran pastor in Manhattan, has spent years ministering to immigrants and now regularly accompanies them inside and around the Federal Plaza immigration court, according to RNS. His work has taken on new urgency as ICE conducts patrols near the courthouse, RNS reports.",
-          "url": "https://religionnews.com/2026/08/27/as-ice-patrols-federal-plaza-a-lutheran-priest-accompanies-immigrants-to-court/",
-          "trustNote": "Single source: RNS"
+          "summary": "Flooding and landslides across the Himalayan region of Nepal and Tibet have killed more than 390 people, with over 1,400 still missing, according to reporting by the Associated Press via RNS. Officials note the steep slopes and valleys below the mountain range, home to some of the world's highest peaks, are especially prone to such disasters. A related report highlights that missing pilgrims include visitors to Mount Kailash, a site held sacred by Hindus, Buddhists, Jains, and followers of the Tibetan Bon tradition.",
+          "url": "https://religionnews.com/2026/08/28/catastrophic-floods-kill-over-390-in-nepal-and-tibet-with-more-than-1400-missing/",
+          "trustNote": "Single source: RNS (via Associated Press)"
         },
         {
           "id": "faith-1",
-          "publishedAt": "2026-08-28T14:20:40Z",
-          "headline": "The Museum of the Bible is offering a Christian nationalist vision of America’s past",
+          "publishedAt": "2026-08-31T15:50:30Z",
+          "headline": "CIA and Vatican visits converge in Moscow amid rising tensions over Ukraine",
           "source": "RNS",
-          "summary": "According to RNS, the Museum of the Bible presents an interpretation of American history that seeks to unite people of faith around the idea that efforts to 're-establish' a Christian America are rooted in the nation's founding. The report frames this as part of a broader movement described as Christian nationalism.",
-          "url": "https://religionnews.com/2026/08/27/the-museum-of-the-bible-is-offering-a-christian-nationalist-vision-of-americas-past/",
+          "summary": "According to RNS, the director of the CIA and Pope Leo's foreign minister both traveled to Moscow around the same time amid heightened tensions over the war in Ukraine. The CIA reportedly delivered warnings, while the Vatican envoy offered dialogue and humanitarian cooperation. A Vatican expert cited by RNS described the simultaneous visits as resembling a 'good cop, bad cop operation.'",
+          "url": "https://religionnews.com/2026/08/28/cia-and-vatican-visits-converge-in-moscow-amid-rising-tensions-over-ukraine/",
           "trustNote": "Single source: RNS"
         }
       ],
       "verse": {
-        "reference": "Matthew 25:35",
-        "text": "For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me.",
-        "reflection": "Pastor Arias's quiet presence at the courthouse doors is a living picture of this verse — faith made visible not in grand gestures but in simply showing up for the frightened. As debates rage over what a 'Christian America' should look like, this verse reminds us that Christ measured faithfulness by how we treat the stranger among us."
+        "reference": "Psalm 46:1-2",
+        "text": "God is our refuge and strength, a very present help in trouble. Therefore we will not fear, though the earth gives way and the mountains fall into the heart of the sea.",
+        "reflection": "As families in Nepal and Tibet search for loved ones amid the wreckage of flooded valleys, this psalm reminds us that even when the ground beneath us literally gives way, God remains a steady refuge for those who grieve and wait for news."
       }
     },
     {
@@ -235,27 +235,27 @@
       "articles": [
         {
           "id": "sports-0",
-          "publishedAt": "2026-08-28T14:20:54Z",
-          "headline": "Celtic & Rangers to play Scottish Cup ties behind closed doors after fan disorder",
+          "publishedAt": "2026-08-31T15:50:39Z",
+          "headline": "Messi retires from international football",
           "source": "BBC Sport",
-          "summary": "According to BBC Sport, Celtic and Rangers have been ordered to play their next home Scottish Cup fixtures without spectators following incidents of fan disorder during last season's competition. The decision reflects governing bodies' response to crowd behavior issues at recent matches involving the two clubs.",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4gk206k95xo?at_medium=RSS&at_campaign=rss",
+          "summary": "According to BBC Sport, Argentina forward Lionel Messi has announced his retirement from international football. Messi said the decision was painful but that he recognized the time had come to step away from national team duty.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC Sport"
         },
         {
           "id": "sports-1",
-          "publishedAt": "2026-08-28T14:20:54Z",
-          "headline": "England get early breakthrough as Archer removes Masood",
+          "publishedAt": "2026-08-31T15:50:39Z",
+          "headline": "Djokovic in tears during US Open first-round exit",
           "source": "BBC Sport",
-          "summary": "BBC Sport reports that England made an early breakthrough on day two of the second Test at Lord's, with bowler Jofra Archer and wicketkeeper Jamie Smith combining to dismiss Pakistan captain Shan Masood for just one run. Pakistan were 5-1 in reply to England's first-innings total of 290.",
-          "url": "https://www.bbc.co.uk/sport/cricket/videos/c4gjp4800lvo?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC Sport reports that Novak Djokovic was emotional after losing in the first round of the US Open. The outlet notes the defeat as further evidence that age is affecting the 39-year-old's performance.",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC Sport"
         }
       ],
       "verse": {
-        "reference": "Hebrews 12:11",
-        "text": "For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it.",
-        "reflection": "Whether it's a club facing consequences for its fans' conduct or a bowler pressing through the early overs of a long match, sport reminds us that discipline and perseverance—though hard in the moment—often shape something better down the road."
+        "reference": "Ecclesiastes 3:1",
+        "text": "For everything there is a season, and a time for every matter under heaven.",
+        "reflection": "Today's news carries the weight of two greats facing the natural rhythm of endings—Messi stepping back from country, Djokovic wrestling with time's toll on the court. May we hold gratitude for what they've given the game, and grace for the seasons of change in our own lives."
       }
     },
     {
@@ -263,27 +263,29 @@
       "articles": [
         {
           "id": "entertainment-0",
-          "publishedAt": "2026-08-28T14:21:05Z",
-          "headline": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
+          "publishedAt": "2026-08-31T15:50:53Z",
+          "headline": "Dolly Parton laid to rest alongside husband in Nashville",
           "source": "BBC News",
-          "summary": "According to BBC News, actors Matt Lucas and Hugh Bonneville are among performers calling on the UK government to introduce a legal right for every person to own their own voice. The push comes amid growing concerns in the entertainment industry over AI voice cloning technology being used without consent.",
-          "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "description": "",
+          "summary": "According to BBC News, a private family funeral was held for singer Dolly Parton, who died on Tuesday at age 80, with the service taking place in Nashville. BBC News also reports that Parton's literacy program, the Imagination Library, was inspired by her father's inability to read and has since provided free books to millions of children worldwide.",
+          "url": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News, corroborated across multiple related BBC articles on Parton's death and legacy."
         },
         {
           "id": "entertainment-1",
-          "publishedAt": "2026-08-28T14:21:05Z",
-          "headline": "What we know after the big Grand Theft Auto 6 preview",
+          "publishedAt": "2026-08-31T15:50:53Z",
+          "headline": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
           "source": "BBC News",
-          "summary": "BBC News reports that an official preview of the highly anticipated video game Grand Theft Auto 6 has been released, drawing strong reactions from fans and critics. The outlet describes the response to the preview as largely positive.",
-          "url": "https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "description": "",
+          "summary": "BBC News reports that actors Matt Lucas and Hugh Bonneville are among performers urging the UK government to establish a legal right for every person to own their own voice, in response to concerns over AI voice cloning technology. The performers argue such protection is needed as AI tools increasingly enable the replication of individuals' voices without consent.",
+          "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News."
         }
       ],
       "verse": {
-        "reference": "Psalm 139:13-14",
-        "text": "For you created my inmost being; you knit me together in my mother's womb. I praise you because I am fearfully and wonderfully made.",
-        "reflection": "As technology makes it possible to imitate even a person's voice, it's worth remembering that each of us was intentionally and uniquely made by God, not manufactured or replicated. May today's conversations about AI and identity remind us to honor the individuality God has woven into every person."
+        "reference": "2 Corinthians 9:7",
+        "text": "Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.",
+        "reflection": "Dolly Parton's life closes with a reminder of what she gave away freely—books, songs, and hope born from her own father's hardship. As we mourn her passing, may her generosity encourage us to give cheerfully from what we've been given, trusting that even small gifts can shape countless lives."
       }
     }
   ],
