@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-05T11:37:57Z",
+  "date": "2026-09-07T13:59:20Z",
   "greeting": "Good morning, friend",
   "openingPrayer": {
-    "title": "Before the Headlines",
-    "body": "Lord, before I read what today holds, steady my heart in Your peace. The world carries heavy news and fragile hope, grief and small mercies side by side. Help me see clearly without growing anxious, to feel deeply without losing hope, and to remember that You are already present in every story I'm about to read. Give me a heart of compassion, a mind of discernment, and a spirit anchored in Your unshakable love. Amen."
+    "title": "Peace Before the News",
+    "body": "Lord, before I read what this day holds, steady my heart in Your peace. The world feels heavy with grief and uncertainty, yet You remain unshaken, near to the brokenhearted and sovereign over every headline. Give me eyes to see with compassion, not fear; a spirit that seeks truth without losing hope; and a heart anchored in Your unfailing love. Whatever I read today, remind me that You are still working, still redeeming, still good. Amen."
   },
   "sections": [
     {
@@ -11,29 +11,27 @@
       "articles": [
         {
           "id": "world-0",
-          "publishedAt": "2026-09-05T11:35:41Z",
-          "headline": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-          "source": "NPR Topics: World",
-          "description": "",
-          "summary": "U.S. envoys Steve Witkoff and Jared Kushner arrived in Moscow to renew efforts toward ending Russia's war in Ukraine, according to NPR and BBC News. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during the visit, though Moscow has not publicly responded; the envoys are expected to travel to Ukraine afterward, per BBC News.",
-          "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-          "trustNote": "Corroborated by 2 outlets (NPR, BBC News)"
+          "publishedAt": "2026-09-07T13:57:12Z",
+          "headline": "Israeli strikes in southern Lebanese village kill 12",
+          "source": "BBC News",
+          "summary": "BBC News reports that Israeli strikes on a village in southern Lebanon killed 12 people. According to the report, Lebanon says the escalation threatens to undermine a US-brokered ceasefire that was meant to end the conflict between Israel and Hezbollah.",
+          "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         },
         {
           "id": "world-1",
-          "publishedAt": "2026-09-05T11:35:41Z",
-          "headline": "UN votes to adopt new world map to reflect Africa's true size",
+          "publishedAt": "2026-09-07T13:57:12Z",
+          "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
           "source": "BBC News",
-          "description": "",
-          "summary": "The United Nations has adopted a new world map depicting Africa's true relative size, according to BBC News and NPR. The Togo-sponsored resolution was supported by 164 nations, with the United States as the only country voting against it.",
-          "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC News and NPR report that Germany's far-right AfD party won a state election but fell three seats short of a governing majority. The party has called for other parties to work with it, a stance covered by both outlets as it seeks to form a state government.",
+          "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
         }
       ],
       "verse": {
-        "reference": "Matthew 5:9",
-        "text": "Blessed are the peacemakers, for they will be called children of God.",
-        "reflection": "As envoys sit down in Moscow seeking an end to Ukraine's suffering, this verse reminds us that pursuing peace—however uncertain the outcome—reflects the very heart of God. May today's negotiators, and all who long for an end to violence, know wisdom and courage."
+        "reference": "Psalm 46:1-3",
+        "text": "God is our refuge and strength, an ever-present help in trouble. Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea, though its waters roar and foam and the mountains quake with their surging.",
+        "reflection": "Between strikes that shatter a fragile ceasefire and political shifts unsettling a nation, today's headlines remind us how quickly the ground can feel unsteady. This psalm doesn't promise the absence of turmoil, but a steady refuge within it — a good anchor for hearts watching the world shift."
       }
     },
     {
@@ -41,27 +39,27 @@
       "articles": [
         {
           "id": "us-0",
-          "publishedAt": "2026-09-05T11:35:55Z",
-          "headline": "Mistrial declared in Lindsay Clancy murder case after jury deadlocks",
-          "source": "BBC News",
-          "summary": "A jury failed to reach a verdict in the murder trial of Lindsay Clancy, a Massachusetts mother accused of killing her three children, resulting in a mistrial, according to BBC News. The case has sparked national debate over whether Clancy should be viewed as a victim of severe mental health crisis or held criminally responsible, and her future now remains uncertain as she is expected to stay in a mental health facility while prosecutors decide on next steps.",
-          "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source (BBC News), corroborated across three separate BBC reports on the case."
+          "publishedAt": "2026-09-07T13:57:25Z",
+          "headline": "5 dead after Amazon cargo plane overruns runway at Miami airport",
+          "source": "NPR Topics: National",
+          "summary": "A cargo plane operated for Amazon overshot the runway while landing at Miami International Airport on Sunday, resulting in five deaths and five injuries, according to NPR. BBC News reported that video footage showed the aircraft bursting into flames after the incident. Investigators, including a former Department of Transportation inspector general interviewed by NPR, are now examining what caused the crash.",
+          "url": "https://www.npr.org/2026/09/07/nx-s1-5959785/5-dead-after-amazon-cargo-plane-crashes-at-miami-airport",
+          "trustNote": "Corroborated by 2 outlets (BBC News and NPR, multiple reports)"
         },
         {
           "id": "us-1",
-          "publishedAt": "2026-09-05T11:35:55Z",
-          "headline": "'Hidden tribunals': Immigration court due process in tumult with new locations",
-          "source": "NPR Topics: National",
-          "summary": "NPR reports that the Trump administration has begun relocating immigration court proceedings to new, less accessible locations, a move critics describe as reducing transparency. The report characterizes this as part of a broader administration strategy to limit immigrants' due process options in order to accelerate deportations.",
-          "url": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
-          "trustNote": "Single source: NPR"
+          "publishedAt": "2026-09-07T13:57:25Z",
+          "headline": "Armed Ohio man arrested for attempted attack on Democratic candidate for governor",
+          "source": "BBC News",
+          "summary": "An armed man was arrested in Ohio after allegedly attempting to attack Amy Acton, a Democratic candidate for governor, BBC News reported. Acton was not injured, but her campaign team said several other people were hurt as the man tried to \"lunge\" at her. Details on the man's motive and charges have not been fully disclosed.",
+          "url": "https://www.bbc.co.uk/news/articles/czezyr81g23o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Micah 6:8",
-        "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
-        "reflection": "Today's stories wrestle with hard questions of justice and mercy—how to weigh accountability against compassion for those in crisis, and how systems meant to protect people can sometimes fail them. This verse reminds us that true justice is never separate from mercy, and both call for humility as we hold complicated realities in prayer."
+        "reference": "Psalm 46:1-2",
+        "text": "God is our refuge and strength, a very present help in trouble. Therefore we will not fear, though the earth gives way, though the mountains be moved into the heart of the sea.",
+        "reflection": "Between a fatal plane crash and an act of political violence narrowly averted, today's news is a reminder of how fragile safety can feel. This verse offers not an explanation for tragedy, but a steady place to stand when the ground shakes — and it's a good morning to hold those affected, and those who protect others, in prayer."
       }
     },
     {
@@ -69,27 +67,27 @@
       "articles": [
         {
           "id": "politics-0",
-          "publishedAt": "2026-09-05T11:36:05Z",
-          "headline": "US envoys arrive in Moscow ahead of Ukraine talks",
-          "source": "BBC News",
-          "summary": "According to BBC News, US officials Steve Witkoff and Jared Kushner have arrived in Moscow for talks with Russian officials, with plans to travel to Ukraine afterward. The visit is part of ongoing diplomatic efforts related to the war in Ukraine.",
-          "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "publishedAt": "2026-09-07T13:57:39Z",
+          "headline": "With the midterms fast approaching, campaign season begins",
+          "source": "NPR Topics: Politics",
+          "summary": "NPR reports that Labor Day has marked the unofficial start of the 2026 midterm election season, with Republicans working to defend their majorities in the House and Senate. NPR notes this comes amid what it describes as President Trump's unpopular second term, and includes analysis from Cook Political Report founder Charlie Cook on the outlook for both parties.",
+          "url": "https://www.npr.org/2026/09/07/nx-s1-5955739/with-the-midterms-fast-approaching-campaign-season-begins",
+          "trustNote": "Reported by NPR in two related pieces; single outlet."
         },
         {
           "id": "politics-1",
-          "publishedAt": "2026-09-05T11:36:05Z",
-          "headline": "Germany's far-right AfD bids for first taste of power in eastern vote",
+          "publishedAt": "2026-09-07T13:57:39Z",
+          "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
           "source": "BBC News",
-          "summary": "BBC News reports that Germany's far-right AfD party is contesting a state election in Saxony-Anhalt, where a majority win would give it its first state-level governing power since World War Two. The outcome is being closely watched as a marker of the party's growing influence in eastern Germany.",
-          "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC News reports that Germany's far-right AfD party fell three seats short of a majority in a recent state election and is now seeking to form a government. The party has argued that other parties should be willing to work with it, framing this as a democratic necessity.",
+          "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Psalm 34:14",
-        "text": "Turn from evil and do good; seek peace and pursue it.",
-        "reflection": "As diplomats meet over a war-torn nation and a nation's voters weigh who should hold power, this verse reminds us that peace is not passive—it must be actively pursued, in policy rooms and at ballot boxes alike. Pray for wisdom for those negotiating and discerning hearts for those voting."
+        "reference": "Proverbs 21:1",
+        "text": "The king's heart is a stream of water in the hand of the LORD; he turns it wherever he will.",
+        "reflection": "As election seasons stir and political parties jostle for power on both sides of the Atlantic, it's worth remembering that no outcome—however uncertain—escapes God's attention. We can engage wisely and vote faithfully, while trusting that ultimate authority rests in hands greater than any campaign."
       }
     },
     {
@@ -97,27 +95,27 @@
       "articles": [
         {
           "id": "business-0",
-          "publishedAt": "2026-09-05T11:36:18Z",
-          "headline": "The price of diesel hits a record high",
-          "source": "NPR Topics: Business",
-          "summary": "Diesel prices have reached an all-time high, according to NPR and BBC News, driven by the ongoing war in Iran and Ukrainian attacks on Russian oil refineries. Both outlets note that rising fuel costs are expected to ripple through supply chains, affecting the price of goods that rely on diesel-powered transport.",
-          "url": "https://www.npr.org/2026/09/04/nx-s1-5948016/diesel-price-record-high",
-          "trustNote": "Corroborated by 2 outlets (NPR and BBC News)"
+          "publishedAt": "2026-09-07T13:57:51Z",
+          "headline": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+          "source": "BBC News",
+          "summary": "Jaguar Land Rover announced it will cut around 4,000 jobs over the next two years, according to BBC News. The carmaker cites falling sales, intensifying competition from Chinese manufacturers, US tariffs, and the costly transition to electric vehicles as reasons for the restructuring.",
+          "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 BBC News reports"
         },
         {
           "id": "business-1",
-          "publishedAt": "2026-09-05T11:36:18Z",
-          "headline": "Volkswagen board approves plan to cut another 50,000 jobs",
+          "publishedAt": "2026-09-07T13:57:51Z",
+          "headline": "Chancellor refuses to rule out tax hikes in October Budget",
           "source": "BBC News",
-          "summary": "Volkswagen's board has approved cutting an additional 50,000 jobs, bringing the total planned reduction to 100,000 positions by 2030, BBC News reports. The cuts affect the broader VW Group, which includes Audi, Porsche, and Skoda.",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Chancellor John Healey declined to rule out tax increases ahead of his first Budget in October, BBC News reports. He outlined plans aimed at spreading economic growth more evenly across the UK.",
+          "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Isaiah 41:10",
-        "text": "Fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.",
-        "reflection": "Rising fuel costs and tens of thousands of job losses are the kind of news that can unsettle a household's sense of security. This verse doesn't erase the hard realities of economic change, but it offers a steady hand to hold onto when the ground feels uncertain."
+        "reference": "Philippians 4:6-7",
+        "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+        "reflection": "Job losses and looming tax decisions can stir real worry about provision and the future. This verse doesn't promise easy answers, but it offers a steady place to bring those concerns—trusting that God's peace can hold us even amid economic uncertainty."
       }
     },
     {
@@ -125,28 +123,27 @@
       "articles": [
         {
           "id": "technology-0",
-          "publishedAt": "2026-09-05T11:36:36Z",
-          "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+          "publishedAt": "2026-09-07T13:58:02Z",
+          "headline": "OpenAI chief scientist warns no one is prepared for consequences of AI",
           "source": "BBC News",
-          "description_used": "",
-          "summary": "According to BBC News, Nvidia has agreed to acquire Hugging Face, a widely used open-source AI platform and developer community, in a deal valued at $12.9 billion. The acquisition would place one of the industry's most prominent hubs for sharing AI models and tools under Nvidia's control.",
-          "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+          "summary": "According to BBC News, OpenAI's chief scientist cautioned that society is not ready for the implications of increasingly powerful artificial intelligence. The warning coincided with the company's release of GPT-6 Astra, described by OpenAI as its most powerful AI product to date.",
+          "url": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         },
         {
           "id": "technology-1",
-          "publishedAt": "2026-09-05T11:36:36Z",
-          "headline": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+          "publishedAt": "2026-09-07T13:58:02Z",
+          "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
           "source": "BBC News",
-          "summary": "BBC News reports that Uber has launched its first self-driving taxi service in the UK, deploying 15 robotaxis that still carry a human safety driver. BBC correspondent Zoe Kleinman rode in one of the vehicles as the service began operating in London on Thursday.",
-          "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 BBC News reports (article and accompanying video)"
+          "summary": "BBC News reports that Nvidia has agreed to acquire Hugging Face, a major open-source AI platform and developer community, in a deal valued at $12.9 billion. The acquisition would give Nvidia significant influence over a widely used hub for AI development tools and models.",
+          "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Luke 12:48",
-        "text": "From everyone who has been given much, much will be demanded; and from the one who has been entrusted with much, much more will be asked.",
-        "reflection": "As companies like Nvidia gain enormous influence over the tools shaping daily life, and as new technologies like self-driving cars quietly reshape our streets, this verse is a gentle reminder that great capability calls for great care. It's worth praying today for wisdom among those who hold such power, and gratitude for the ingenuity woven into human hands."
+        "reference": "Proverbs 3:5-6",
+        "text": "Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.",
+        "reflection": "As AI's power and reach grow faster than our ability to fully grasp its consequences, this verse reminds us that human understanding alone was never meant to carry the weight of every outcome. We can build wisely and still trust that our steps are held by something greater than our own knowledge."
       }
     },
     {
@@ -154,27 +151,27 @@
       "articles": [
         {
           "id": "health-0",
-          "publishedAt": "2026-09-05T11:36:47Z",
-          "headline": "'The health system in Nepal is not prepared for this'",
+          "publishedAt": "2026-09-07T13:58:16Z",
+          "headline": "Pig kidneys keep patients alive long enough to get human kidneys for the first time",
           "source": "NPR Topics: Health",
-          "summary": "According to NPR, catastrophic flooding in Nepal has damaged or destroyed seven health facilities, disrupted routine medical care, and is contributing to mental health strain among residents. Local health workers cited by NPR describe the health system as unprepared for the scale of the disaster's aftermath.",
-          "url": "https://www.npr.org/2026/09/04/nx-s1-5954050/nepal-flood-waters-physical-mental-health",
+          "summary": "According to NPR, genetically modified pig kidneys successfully kept two patients with kidney failure alive long enough for them to later receive human kidney transplants, a first in xenotransplantation research. The development is being viewed as a potential bridge therapy for patients facing long waits for donor organs.",
+          "url": "https://www.npr.org/2026/09/07/nx-s1-5958008/pig-kidneys-keep-patients-alive-long-enough-to-get-human-kidneys-for-the-first-time",
           "trustNote": "Single source: NPR"
         },
         {
           "id": "health-1",
-          "publishedAt": "2026-09-05T11:36:47Z",
-          "headline": "Transplanted pig kidney works in US man's body for record 271 days",
+          "publishedAt": "2026-09-07T13:58:16Z",
+          "headline": "BBC News presenter reveals she has blood cancer",
           "source": "BBC News",
-          "summary": "The BBC reports that a man in the United States has lived for 271 days with a transplanted pig kidney, marking a record for this type of procedure. He received the transplant while awaiting a human kidney donor, according to the report.",
-          "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC News presenter Maryam Moshiri has disclosed that she has been diagnosed with blood cancer, according to BBC News. Moshiri said she chose to go public with her diagnosis in order to raise awareness of the disease.",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Psalm 46:1",
-        "text": "God is our refuge and strength, an ever-present help in trouble.",
-        "reflection": "For families in Nepal facing damaged hospitals and shaken hope, and for one man whose body has sustained an extraordinary medical first, today's news holds both fragility and resilience. May we remember that healing—whether through rebuilt clinics or scientific breakthroughs—flows from a God who is present in every kind of trouble."
+        "reference": "Jeremiah 17:14",
+        "text": "Heal me, Lord, and I will be healed; save me and I will be saved, for you are the one I praise.",
+        "reflection": "Whether it's the quiet courage of naming a diagnosis out loud or scientists coaxing new hope from unlikely places like a pig's kidney, both stories point to our deep dependence on healing beyond ourselves. This morning, may we hold both the wonder of medical progress and the vulnerability of illness in the same prayer of trust."
       }
     },
     {
@@ -182,27 +179,27 @@
       "articles": [
         {
           "id": "science-0",
-          "publishedAt": "2026-09-05T11:37:05Z",
-          "headline": "Trump signs order to remove endangered species protection for grey wolves",
-          "source": "BBC News",
-          "summary": "According to BBC News, President Trump has signed an executive order stripping federal endangered species protections from grey wolves. The administration argues the change will assist ranchers dealing with livestock losses, while conservationists cited by BBC warn it could undo decades of population recovery efforts.",
-          "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "publishedAt": "2026-09-07T13:58:31Z",
+          "headline": "'Her body temperature was 106': How heat is killing Americans in their homes",
+          "source": "NPR Topics: Science",
+          "summary": "NPR reports that extreme heat kills thousands of Americans each year, with residents of manufactured housing, such as mobile homes and trailers, facing especially high risk due to poor insulation and limited cooling. The report highlights the human toll of rising temperatures on vulnerable populations across the U.S.",
+          "url": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+          "trustNote": "Single source: NPR"
         },
         {
           "id": "science-1",
-          "publishedAt": "2026-09-05T11:37:05Z",
-          "headline": "Scientists map key protein interactions linked with profound autism",
-          "source": "NPR Topics: Science",
-          "summary": "Researchers have published a new map of protein interactions connected to profound autism in the journal Science, as reported by NPR. NPR describes the findings as filling a 'missing piece' in understanding the biological roots of profound autism and says they could point toward new drug development targets.",
-          "url": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
-          "trustNote": "Single source: NPR Topics: Science"
+          "publishedAt": "2026-09-07T13:58:31Z",
+          "headline": "Trump signs order to remove endangered species protection for grey wolves",
+          "source": "BBC News",
+          "summary": "According to BBC News, US President Trump has signed an order removing endangered species protections for grey wolves. The White House says the move will benefit ranchers, while conservationists quoted by the BBC warn it could set back decades of wolf population recovery efforts.",
+          "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Psalm 139:14",
-        "text": "I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well.",
-        "reflection": "Today's science reminds us that both the wild creatures we're called to steward and the human minds we're only beginning to understand are made with intricate care. Whether wrestling with policy over wolves or new discoveries about the brain, we're invited to hold both wonder and responsibility with humility."
+        "reference": "Psalm 145:9",
+        "text": "The Lord is good to all; he has compassion on all he has made.",
+        "reflection": "Whether it's a family enduring dangerous heat in a fragile home or a wolf population facing an uncertain future, this verse reminds us that God's care extends to every creature and every person he has made. May it stir in us both compassion for the vulnerable and a sense of responsibility for the world entrusted to our care."
       }
     },
     {
@@ -210,27 +207,27 @@
       "articles": [
         {
           "id": "faith-0",
-          "publishedAt": "2026-09-05T11:37:17Z",
+          "publishedAt": "2026-09-07T13:58:49Z",
           "headline": "Seven Vermont clergy arrested while protesting ICE targeting center",
           "source": "RNS",
-          "summary": "Seven clergy members in Vermont were arrested during a protest at a facility associated with ICE operations, according to RNS. Among those arrested was the Rev. Rebecca Girrell, a United Methodist pastor, who said she felt compelled as a faith leader to speak out for immigrants' dignity and against targeting human beings. The protest reflects a broader pattern of faith leaders engaging in civil disobedience over immigration enforcement practices.",
+          "summary": "Seven members of the clergy in Vermont were arrested while protesting outside a facility reportedly used by ICE for targeting operations, according to Religion News Service. The Rev. Rebecca Girrell, a United Methodist pastor among those arrested, said she felt called as a faith leader to affirm that people should not be treated as targets and that God represents justice and love. The incident highlights ongoing tensions between some faith communities and immigration enforcement practices.",
           "url": "https://religionnews.com/2026/09/04/seven-vermont-clergy-arrested-protesting-targeting-center-used-by-ice/",
           "trustNote": "Single source: RNS"
         },
         {
           "id": "faith-1",
-          "publishedAt": "2026-09-05T11:37:17Z",
-          "headline": "Church trial of Anglican Archbishop Steve Wood, accused of sexual misconduct, begins Monday",
+          "publishedAt": "2026-09-07T13:58:49Z",
+          "headline": "As the far-right in Germany aims to take power, churches are fighting back",
           "source": "RNS",
-          "summary": "A church trial for Anglican Archbishop Steve Wood, who faces accusations of sexual misconduct, began this week, RNS reported. Julian Dobbs, who has assumed the archbishop's duties during the proceedings, described the denomination's current period as a 'challenging and uncomfortable season' that is testing its unity and faith. The outcome of the trial could have significant implications for leadership within the Anglican province.",
-          "url": "https://religionnews.com/2026/09/03/church-tiral-of-anglican-archbishop-steve-wood-accused-of-sexual-misconduct-begins-monday/",
+          "summary": "Ahead of a Sept. 6 regional election in Saxony-Anhalt, Germany, churches are mobilizing against the far-right AfD party, according to Religion News Service. The report states an AfD win could pose direct risks to refugees and to German churches that serve them, prompting faith leaders to draw inspiration from historical church resistance movements in East Germany. Reporting was conducted from Burg near Magdeburg, Germany.",
+          "url": "https://religionnews.com/2026/09/03/as-the-far-right-in-germany-looks-to-take-power-churches-are-fighting-back/",
           "trustNote": "Single source: RNS"
         }
       ],
       "verse": {
         "reference": "Micah 6:8",
         "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
-        "reflection": "Today's stories, from clergy risking arrest for immigrants to a church confronting allegations against one of its own leaders, both wrestle with what it means to seek justice honestly. May we hold both compassion and accountability together, trusting that God's justice is never separate from His mercy."
+        "reflection": "Today's stories show clergy on two continents stepping into discomfort and risk for the sake of others—immigrants facing enforcement, refugees facing political hostility. Micah's words remind us that faith isn't just belief held quietly; it's justice and mercy lived out, even when it costs something."
       }
     },
     {
@@ -238,27 +235,27 @@
       "articles": [
         {
           "id": "sports-0",
-          "publishedAt": "2026-09-05T11:37:39Z",
-          "headline": "Isak finally arrives as Gakpo proves value to Liverpool",
+          "publishedAt": "2026-09-07T13:59:03Z",
+          "headline": "Red Star fans unveil tifo of war criminal Mladic before derby",
           "source": "BBC Sport",
-          "summary": "BBC Sport reports that Alexander Isak scored twice as Liverpool defeated Ipswich Town in the Premier League, with the club's chief football writer suggesting this performance may mark the striker finding his best form. Cody Gakpo was also noted as contributing positively to the win.",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss",
+          "summary": "According to BBC Sport, supporters of Red Star Belgrade displayed a tifo depicting convicted war criminal Ratko Mladic ahead of their derby against Partizan Belgrade on Sunday. Red Star went on to win the match, but the display has drawn attention to the ongoing presence of nationalist and war-related imagery in Serbian football culture.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c209n1y58neo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC Sport"
         },
         {
           "id": "sports-1",
-          "publishedAt": "2026-09-05T11:37:39Z",
-          "headline": "Guendouzi and Greenwood banned after brawl",
+          "publishedAt": "2026-09-07T13:59:03Z",
+          "headline": "Fury says he is looking for new opponent, calls out Usyk",
           "source": "BBC Sport",
-          "summary": "According to BBC Sport, Fenerbahce midfielder Matteo Guendouzi has received a four-match European ban and a 50,000 euro fine following a brawl that occurred after his team's Champions League play-off win at Lyon. Teammate Mason Greenwood was also banned in connection with the incident.",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cly7874vxzlo?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC Sport reports that Tyson Fury has suggested he needs a new opponent for a planned November fight, fueling speculation that his anticipated all-British heavyweight bout with Anthony Joshua may fall through. Fury has publicly called out Oleksandr Usyk as a potential alternative opponent.",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/c624gxplj72o?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC Sport"
         }
       ],
       "verse": {
-        "reference": "Proverbs 16:32",
-        "text": "Whoever is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city.",
-        "reflection": "Today's headlines show two sides of competition — the joy of a player rising to his potential, and the cost when tempers boil over into conflict. May we celebrate hard-won excellence while remembering that true strength is often shown not in victory, but in self-control."
+        "reference": "Matthew 5:9",
+        "text": "Blessed are the peacemakers, for they will be called children of God.",
+        "reflection": "When old wounds and rivalries resurface—whether in the shadow of war or the theater of competition—this verse calls us toward a harder, better path: seeking peace rather than provocation. May today's sports news remind us that true strength is often shown not in defiance, but in reconciliation."
       }
     },
     {
@@ -266,27 +263,27 @@
       "articles": [
         {
           "id": "entertainment-0",
-          "publishedAt": "2026-09-05T11:37:53Z",
-          "headline": "Russell Howard 'devastated' after his baby son died shortly after birth",
+          "publishedAt": "2026-09-07T13:59:16Z",
+          "headline": "BBC News presenter reveals she has blood cancer",
           "source": "BBC News",
-          "summary": "Comedian Russell Howard has shared that his baby son, Felix, died shortly after birth earlier this year, according to the BBC. Howard said the loss, following his wife Cerys giving birth, left him devastated. The couple's grief comes amid Howard's public career as a comedian and television presenter.",
-          "url": "https://www.bbc.co.uk/news/articles/cg491g7rnqqo?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC News presenter Maryam Moshiri has disclosed that she has been diagnosed with blood cancer, according to BBC News. She said she chose to share the news publicly in order to raise awareness of the condition.",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         },
         {
           "id": "entertainment-1",
-          "publishedAt": "2026-09-05T11:37:53Z",
-          "headline": "Man About the House star Richard O'Sullivan dies aged 82",
+          "publishedAt": "2026-09-07T13:59:16Z",
+          "headline": "TV presenter among 12 sentenced to death in Egypt drugs case",
           "source": "BBC News",
-          "summary": "Actor Richard O'Sullivan, best known for playing Robin Tripp in the 1970s sitcoms Man About the House and its spin-off Robin's Nest, has died at age 82, the BBC reports. His career spanned decades of British television comedy. Tributes are expected to reflect on his contribution to classic sitcom history.",
-          "url": "https://www.bbc.co.uk/news/articles/ce8eg2nnxz0o?at_medium=RSS&at_campaign=rss",
+          "summary": "Egyptian television presenter Sarah Khalifa, known for her show 'Mission Impossible' covering crime issues, is among 12 people sentenced to death in a drugs case in Egypt, BBC News reports. Details on the specific charges and next legal steps were not provided in the report.",
+          "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Psalm 34:18",
-        "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
-        "reflection": "Today's news carries two forms of grief — a father mourning a son he barely had time to hold, and a family and fans saying goodbye to a beloved performer after a long life. In both, this verse offers a quiet promise: God draws near not to explain sorrow, but to sit within it alongside those who carry it."
+        "reference": "Isaiah 41:10",
+        "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+        "reflection": "Whether facing a frightening diagnosis or standing under the weight of a court's judgment, this promise reminds us that no circumstance places anyone beyond God's reach. May both Maryam and Sarah know they are not alone in what lies ahead."
       }
     }
   ],
