@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-08T12:38:31Z",
+  "date": "2026-09-15T13:09:03Z",
   "greeting": "Good morning, friend",
   "openingPrayer": {
     "title": "Steady My Heart",
-    "body": "Lord, before I read what this day holds, still my heart in You. The world carries heavy news, but You remain unshaken. Give me eyes to see clearly, a heart that does not grow numb or afraid, and wisdom to respond with compassion, not fear. Remind me that You hold every nation, every sorrow, every headline in Your hands. Let my peace rest in You alone, not in what I read today. Amen."
+    "body": "Lord, before I read what today holds, quiet my heart in Your peace. The world carries heavy news, and I confess it can unsettle me. Remind me that You are still sovereign, still good, still near. Give me eyes to see truth clearly, a heart that does not grow anxious, and compassion for those who suffer. Let me carry Your steadiness into this day, trusting You above every headline. Amen."
   },
   "sections": [
     {
@@ -11,27 +11,27 @@
       "articles": [
         {
           "id": "world-0",
-          "publishedAt": "2026-09-08T12:36:09Z",
-          "headline": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+          "publishedAt": "2026-09-15T13:06:33Z",
+          "headline": "NATO jets down drone that entered Lithuanian airspace",
           "source": "BBC News",
-          "summary": "Canada's retaliatory tariffs on roughly $20 billion worth of American goods took effect Tuesday, according to BBC News and NPR, escalating a trade dispute with the United States. NPR reports the standoff could have implications reaching beyond the two countries' bilateral relationship, which BBC describes as the world's largest.",
-          "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+          "summary": "NATO fighter jets shot down a drone that entered Lithuanian airspace, according to BBC News and NPR. Authorities say the drone likely came from Belarus, a close ally of Russia, though its exact origin remains unconfirmed. NPR notes the incident occurred less than a day after NATO leaders pledged to increase support for Kyiv in response to strikes near alliance territory.",
+          "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
         },
         {
           "id": "world-1",
-          "publishedAt": "2026-09-08T12:36:09Z",
-          "headline": "At least two people dead after Russian strikes on Kyiv",
-          "source": "BBC News",
-          "summary": "BBC News reports that at least two people were killed after Russian drone strikes hit Kyiv early Tuesday. Air raid sirens and explosions were reported across Ukraine's capital as the attack unfolded.",
-          "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "publishedAt": "2026-09-15T13:06:33Z",
+          "headline": "Trump says Ukraine and Russia agreed to stop attacks on energy sites",
+          "source": "NPR Topics: World",
+          "summary": "President Trump said Ukraine and Russia have agreed to halt attacks on each other's energy infrastructure, according to NPR. The reported agreement comes amid rising diesel prices linked to the ongoing conflict. NPR did not provide further details on how or when the agreement was reached.",
+          "url": "https://www.npr.org/2026/09/15/nx-s1-5968728/trump-says-ukraine-and-russia-agreed-to-stop-attacks-on-energy-sites",
+          "trustNote": "Single source: NPR Topics: World"
         }
       ],
       "verse": {
-        "reference": "Psalm 46:1",
-        "text": "God is our refuge and strength, a very present help in trouble.",
-        "reflection": "For those waking to news of strikes and loss in Kyiv, and nations wrestling over trade and power, this verse offers a steadying reminder: even amid global unrest, God's presence remains near and unshaken."
+        "reference": "Psalm 46:9",
+        "text": "He makes wars cease to the end of the earth; he breaks the bow and shatters the spear; he burns the chariots with fire.",
+        "reflection": "Amid drones over Lithuania and fragile talk of a ceasefire on energy strikes, this verse holds out a hope beyond human diplomacy—that lasting peace ultimately rests in God's hands, not just treaties. It's a quiet invitation to pray for restraint and wisdom for leaders navigating these tense days."
       }
     },
     {
@@ -39,27 +39,27 @@
       "articles": [
         {
           "id": "us-0",
-          "publishedAt": "2026-09-08T12:36:24Z",
-          "headline": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+          "publishedAt": "2026-09-15T13:06:50Z",
+          "headline": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
           "source": "BBC News",
-          "summary": "Canada's retaliatory tariffs on roughly $20 billion of American goods took effect Tuesday, according to BBC News, escalating a trade dispute with the United States. NPR reports the move is a direct response to U.S. tariffs and could have effects reaching beyond the two countries. Separately, BBC News reports President Trump has threatened to block U.S. sales of jets made by Canada's Bombardier amid the rising tensions.",
-          "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
+          "summary": "The U.S. Supreme Court rejected the Trump administration's request to implement new restrictions on mail-in ballots ahead of the midterm elections, according to BBC News and NPR. The administration had asked the court to lift a federal judge's temporary block on the proposed rules, but the justices declined to intervene, leaving that lower court order in place for now.",
+          "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by BBC News and NPR (multiple reports)"
         },
         {
           "id": "us-1",
-          "publishedAt": "2026-09-08T12:36:24Z",
-          "headline": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+          "publishedAt": "2026-09-15T13:06:50Z",
+          "headline": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
           "source": "BBC News",
-          "summary": "A Boeing 767-300 overshot the runway at Miami International Airport, resulting in five deaths, according to BBC News. Investigators told NPR the victims were inside two vehicles on the ground when the aircraft struck them. Aviation officials are continuing to investigate the circumstances of the crash.",
-          "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
+          "summary": "President Trump dismissed concerns about AI safety risks as a 'hoax' and rejected calls for stronger safeguards, according to BBC News, after Anthropic co-founder Jack Clark told the outlet a mandatory AI 'kill switch' may be necessary. Separately, NPR reports that Senator Bernie Sanders and Steve Bannon plan to appear together at a Washington event urging Congress to act faster on AI regulation, though BBC News notes political divisions make new legislation unlikely soon.",
+          "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by BBC News and NPR"
         }
       ],
       "verse": {
-        "reference": "Psalm 34:18",
-        "text": "The LORD is close to the brokenhearted and saves those who are crushed in spirit.",
-        "reflection": "Behind today's headlines are real families grieving sudden loss and communities uncertain about what economic conflict will cost them. This verse reminds us that God's nearness isn't reserved for calm days — He draws close precisely when hearts are heavy."
+        "reference": "James 1:5",
+        "text": "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.",
+        "reflection": "Between courts weighing the fairness of our elections and leaders wrestling with the risks of new technology, today's news reminds us how much discernment our world genuinely needs right now. It's a good day to pray not just for outcomes, but for the wisdom of those making these decisions."
       }
     },
     {
@@ -67,27 +67,27 @@
       "articles": [
         {
           "id": "politics-0",
-          "publishedAt": "2026-09-08T12:36:41Z",
-          "headline": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+          "publishedAt": "2026-09-15T13:07:09Z",
+          "headline": "AI regulation faces political deadlock as debate over safety intensifies",
           "source": "BBC News",
-          "summary": "Canada has implemented counter-tariffs on roughly $20 billion worth of U.S. goods, according to BBC News and NPR, escalating a trade dispute with the United States under President Trump. Both outlets note the standoff threatens to disrupt what has long been one of the world's largest bilateral trading relationships, with NPR adding that the economic effects could extend beyond North America.",
-          "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 outlets (BBC News and NPR)"
+          "summary": "President Trump dismissed AI safety fears as a \"hoax\" and rejected calls for stronger safeguards, according to BBC News, even as Anthropic co-founder Jack Clark told the outlet a mandatory AI \"kill switch\" may be needed. Separately, NPR reported that Sen. Bernie Sanders called the risks a \"wake-up call\" for Congress and plans to appear alongside Steve Bannon to push for AI curbs. BBC News notes that with Trump opposed and lawmakers divided, new AI safety legislation is unlikely to pass soon.",
+          "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by multiple BBC News and NPR reports on the AI safety and regulation debate"
         },
         {
           "id": "politics-1",
-          "publishedAt": "2026-09-08T12:36:41Z",
-          "headline": "The 2026 midterm general election season is upon us. Here's what to watch",
+          "publishedAt": "2026-09-15T13:07:09Z",
+          "headline": "Supreme Court rejects Trump administration's mail voting restrictions for midterms",
           "source": "NPR Topics: Politics",
-          "summary": "NPR reports that the 2026 midterm election season has officially begun, with control of Congress at stake as President Trump faces low approval ratings and Democrats show increased enthusiasm. Related NPR coverage highlights that Republicans are holding an unconventional campaign gathering, described as a 'Trumpapalooza,' in Dallas this week to energize voter turnout ahead of the midterms.",
-          "url": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
-          "trustNote": "Multiple related reports from a single outlet: NPR Topics: Politics"
+          "summary": "The Supreme Court declined the Trump administration's request to enforce mail-in voting restrictions tied to a U.S. Postal Service plan ahead of this year's midterm elections, according to NPR. The ruling leaves existing mail voting procedures in place for the upcoming election cycle.",
+          "url": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
+          "trustNote": "Single source: NPR"
         }
       ],
       "verse": {
         "reference": "Proverbs 11:14",
-        "text": "Where there is no guidance, a people falls, but in an abundance of counselors there is safety.",
-        "reflection": "Between trade disputes straining nations and elections stirring division, this proverb points us toward the deeper need for wisdom and humility in leadership. May we pray for those who govern, that they seek counsel over conflict."
+        "text": "Where there is no guidance, a nation falls, but in an abundance of counselors there is safety.",
+        "reflection": "From the fierce debates over AI's future to the courts weighing how we vote, today's news is full of decisions that shape a nation's path. This verse reminds us that wisdom rarely comes from one voice alone — it's found in humble, honest counsel, which is worth praying for in our leaders today."
       }
     },
     {
@@ -95,27 +95,27 @@
       "articles": [
         {
           "id": "business-0",
-          "publishedAt": "2026-09-08T12:36:53Z",
-          "headline": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+          "publishedAt": "2026-09-15T13:07:29Z",
+          "headline": "AI regulation faces political deadlock as calls grow for Congress to act",
           "source": "BBC News",
-          "summary": "According to BBC News, Canada has imposed tariffs on roughly $20 billion worth of American goods in response to U.S. trade measures, escalating tensions between the two countries. NPR reports the dispute could have effects reaching beyond North America, and BBC News adds that President Trump has separately threatened to block sales of Canadian-made Bombardier jets in the U.S. amid the standoff.",
-          "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by BBC News and NPR across multiple articles"
+          "summary": "According to BBC News, President Trump dismissed concerns about AI safety as a 'hoax' and rejected calls for greater safeguards, despite Anthropic co-founder Jack Clark telling the BBC that a mandatory AI 'kill switch' may be necessary. BBC News reports that with Trump opposed and Congress divided, new AI safety legislation is unlikely to pass soon despite growing pressure for action.",
+          "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Reported across three related BBC News articles published the same day."
         },
         {
           "id": "business-1",
-          "publishedAt": "2026-09-08T12:36:53Z",
-          "headline": "Borrowers expecting mortgage rates to drop have hopes dashed",
+          "publishedAt": "2026-09-15T13:07:29Z",
+          "headline": "Government set to nationalise troubled steel firm",
           "source": "BBC News",
-          "summary": "BBC News reports that major mortgage lenders have raised rates on new deals in recent days, disappointing borrowers who had anticipated a decline. The report notes many homeowners now face difficult decisions about when and how to refinance.",
-          "url": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+          "summary": "The UK government is reportedly preparing to nationalise SSUK, a struggling steel firm, according to BBC News. Production at the company's sites in South Yorkshire and the West Midlands was paused earlier this year, the report states.",
+          "url": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Matthew 6:34",
-        "text": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
-        "reflection": "Between rising mortgage rates and an uncertain trade war, today's news carries a lot of financial anxiety. This verse doesn't ask us to ignore real concerns, but invites us to face them one day at a time, trusting God with what we cannot control."
+        "reference": "Proverbs 3:5-6",
+        "text": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+        "reflection": "Whether it's leaders wrestling with the unknowns of artificial intelligence or workers facing uncertainty over their industry's future, today's news reminds us how much of life depends on decisions beyond our control. In seasons of complexity, this verse invites us to steady our hearts in God's wisdom rather than our own limited understanding."
       }
     },
     {
@@ -123,27 +123,27 @@
       "articles": [
         {
           "id": "technology-0",
-          "publishedAt": "2026-09-08T12:37:07Z",
-          "headline": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-          "source": "BBC News",
-          "summary": "OpenAI's chief scientist stated in a public post that society is not adequately prepared for the consequences of advanced artificial intelligence, according to BBC News. The comments came as OpenAI released GPT-6 Astra, which the company describes as its most powerful AI product yet.",
-          "url": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "publishedAt": "2026-09-15T13:07:47Z",
+          "headline": "AI CEOs call for industry slowdown",
+          "source": "NPR Topics: Technology",
+          "summary": "According to NPR, Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have joined a growing chorus of industry leaders calling for a slowdown in AI development, following a string of security-related incidents and a high-profile resignation. NPR reports the shift comes amid fears that AI systems are advancing toward capabilities humans may not be able to control. President Trump, however, downplayed these warnings, according to both NPR and BBC News, calling concerns exaggerated and suggesting 'negative forces' were behind the alarm, while China's Foreign Ministry dismissed related warnings as 'fearmongering,' per NPR.",
+          "url": "https://www.npr.org/2026/09/13/nx-s1-5967558/ai-ceos-call-for-industry-slowdown",
+          "trustNote": "Corroborated across multiple NPR reports and BBC News"
         },
         {
           "id": "technology-1",
-          "publishedAt": "2026-09-08T12:37:07Z",
-          "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-          "source": "BBC News",
-          "summary": "Nvidia has agreed to acquire the AI platform Hugging Face in a deal valued at $12.9bn, BBC News reports. The acquisition would give Nvidia control over a widely used open-source AI platform and its developer community.",
-          "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "publishedAt": "2026-09-15T13:07:47Z",
+          "headline": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
+          "source": "NPR Topics: Technology",
+          "summary": "NPR reports that Senator Bernie Sanders and political strategist Steve Bannon, figures from opposite ends of the U.S. political spectrum, plan to appear together at the 'Pro-Human Assembly' in Washington, D.C. According to NPR, the event aims to press Congress to move faster in addressing the risks posed by artificial intelligence.",
+          "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
+          "trustNote": "Single source: NPR"
         }
       ],
       "verse": {
-        "reference": "James 1:5",
-        "text": "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.",
-        "reflection": "As AI grows more powerful and reshapes industries overnight, even its own creators admit uncertainty about what lies ahead. In seasons like this, wisdom isn't found in more data or bigger deals, but in humbly seeking the God who sees the whole picture we cannot."
+        "reference": "Psalm 20:7",
+        "text": "Some trust in chariots and some in horses, but we trust in the name of the LORD our God.",
+        "reflection": "As leaders across the political and tech world debate how to rein in humanity's most powerful new tool, this verse offers a steady reminder: our confidence was never meant to rest in the strength of our own creations, but in the God who remains sovereign over them."
       }
     },
     {
@@ -151,27 +151,27 @@
       "articles": [
         {
           "id": "health-0",
-          "publishedAt": "2026-09-08T12:37:29Z",
-          "headline": "Pig kidneys keep patients alive long enough to get human kidneys for the first time",
+          "publishedAt": "2026-09-15T13:08:02Z",
+          "headline": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
           "source": "NPR Topics: Health",
-          "summary": "According to NPR, doctors used genetically modified pig kidneys to sustain two patients with kidney failure until human kidney transplants became available — the first time this has been achieved. The report describes it as a milestone for xenotransplantation, a field aiming to ease the shortage of donor organs.",
-          "url": "https://www.npr.org/2026/09/07/nx-s1-5958008/pig-kidneys-keep-patients-alive-long-enough-to-get-human-kidneys-for-the-first-time",
-          "trustNote": "Single source: NPR Topics: Health"
+          "summary": "Pennsylvania health officials reported that a 40-year-old unvaccinated woman has died from complications related to measles, according to NPR. A local coroner confirmed the death, which marks the state's third measles-related fatality in under three weeks. The report highlights ongoing concerns about vaccination rates and disease outbreaks.",
+          "url": "https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications",
+          "trustNote": "Single source: NPR"
         },
         {
           "id": "health-1",
-          "publishedAt": "2026-09-08T12:37:29Z",
-          "headline": "A&E did not get the basics right - my son's life was ruined at 32",
+          "publishedAt": "2026-09-15T13:08:02Z",
+          "headline": "Staff slept while patient killed at NHS mental health unit",
           "source": "BBC News",
-          "summary": "BBC News reports on Oli, whose family says his life was permanently altered after emergency department staff in England failed to provide basic care. The outlet's analysis found this case reflects a growing number of clinical negligence claims being filed against A&E departments in England.",
-          "url": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
+          "summary": "An inquest has heard that staff were asleep while a patient, Rolando Torres-Pena, 22, strangled and killed fellow patient Hugo Flint-Cahan on a hospital ward in east London, BBC News reports. The case has raised questions about staffing and safety protocols at NHS mental health facilities. Details of the inquest proceedings continue to be examined.",
+          "url": "https://www.bbc.co.uk/news/articles/c750vqp1wlxo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Psalm 147:3",
-        "text": "He heals the brokenhearted and binds up their wounds.",
-        "reflection": "Today's stories hold both wonder and sorrow — a scientific breakthrough that buys patients precious time, and a family's grief over care that fell short. In both, we're reminded that healing, whether through medicine or mercy, ultimately flows from a God who tends to every wound, seen and unseen."
+        "reference": "Psalm 34:18",
+        "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+        "reflection": "Today's news carries real grief — a family mourning a preventable death, and another reeling from a tragic failure of care meant to protect the vulnerable. In the midst of such sorrow, this verse reminds us that God draws near not to explain suffering away, but to sit with those who carry it."
       }
     },
     {
@@ -179,27 +179,27 @@
       "articles": [
         {
           "id": "science-0",
-          "publishedAt": "2026-09-08T12:37:39Z",
-          "headline": "'Her body temperature was 106': How heat is killing Americans in their homes",
+          "publishedAt": "2026-09-15T13:08:18Z",
+          "headline": "Trump's EPA repeals pollution limits on fossil fuel power plants",
           "source": "NPR Topics: Science",
-          "summary": "NPR reports that extreme heat kills thousands of Americans annually, with residents of manufactured housing such as mobile homes and trailers facing especially high risk. The report highlights how inadequate insulation and cooling in these homes can lead to dangerously high body temperatures during heat waves.",
-          "url": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
-          "trustNote": "Single source: NPR"
+          "summary": "The Trump administration's Environmental Protection Agency has eliminated limits on climate-warming emissions from coal and gas power plants, according to BBC News and NPR. The EPA says the move will cut costs and lower energy prices, while environmental groups quoted by NPR warn it could harm public health and the climate.",
+          "url": "https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants",
+          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
         },
         {
           "id": "science-1",
-          "publishedAt": "2026-09-08T12:37:39Z",
-          "headline": "Trump signs order to remove endangered species protection for grey wolves",
-          "source": "BBC News",
-          "summary": "According to BBC News, US President Trump has signed an order removing endangered species protections for grey wolves, a move the administration says will benefit ranchers. Conservationists cited by the BBC warn the decision could undermine ongoing efforts to restore wolf populations.",
-          "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "publishedAt": "2026-09-15T13:08:18Z",
+          "headline": "NASA rushed engineers out of their labs. They say it risks future space missions",
+          "source": "NPR Topics: Science",
+          "summary": "NASA employees told NPR that abrupt relocations over the past several months have caused the agency to lose vital equipment and staff needed to build sophisticated spacecraft. They say the disruption could jeopardize the readiness of future space missions.",
+          "url": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
+          "trustNote": "Single source: NPR Topics: Science"
         }
       ],
       "verse": {
-        "reference": "Isaiah 49:10",
-        "text": "They shall not hunger nor thirst; neither shall the heat nor sun smite them: for he that hath mercy on them shall lead them.",
-        "reflection": "As we read of neighbors suffering in the heat, this promise reminds us that God's compassion moves toward the vulnerable—and calls us to do the same, whether through prayer, policy, or a simple act of care for someone without relief from the sun."
+        "reference": "Psalm 24:1",
+        "text": "The earth is the Lord's, and everything in it, the world, and all who live in it.",
+        "reflection": "Whether it's debates over how we care for the skies and land, or the careful, costly work of reaching beyond them, all of it belongs first to God. Today's headlines are a reminder to hold our stewardship of the earth—and our reach toward the heavens—with humility and care."
       }
     },
     {
@@ -207,27 +207,29 @@
       "articles": [
         {
           "id": "faith-0",
-          "publishedAt": "2026-09-08T12:37:57Z",
-          "headline": "Seven Vermont clergy arrested while protesting ICE targeting center",
+          "publishedAt": "2026-09-15T13:08:29Z",
+          "headline": "Al Mohler reverses course, rejects blasphemy laws after controversy",
           "source": "RNS",
-          "summary": "Seven clergy members in Vermont were arrested while protesting outside a facility reportedly used by U.S. Immigration and Customs Enforcement for targeting operations, according to RNS. Among those arrested was Rev. Rebecca Girrell, a United Methodist pastor, who said she felt called as a faith leader to affirm that human beings should not be treated as targets. The incident highlights ongoing involvement by clergy in immigration policy debates.",
-          "url": "https://religionnews.com/2026/09/04/seven-vermont-clergy-arrested-protesting-targeting-center-used-by-ice/",
+          "description": "",
+          "summary": "Al Mohler, president of Southern Baptist Theological Seminary, has publicly retracted his earlier statement that government should be permitted to punish those who deny God's role in America's founding, according to Religion News Service. Mohler said he was mistaken in his original comments after they drew significant public criticism. The reversal marks a notable shift from a prominent evangelical leader on questions of church-state boundaries.",
+          "url": "https://religionnews.com/2026/09/14/al-mohler-reverses-course-rejects-blasphemy-laws-after-controversy/",
           "trustNote": "Single source: RNS"
         },
         {
           "id": "faith-1",
-          "publishedAt": "2026-09-08T12:37:57Z",
-          "headline": "Church trial of Anglican Archbishop Steve Wood, accused of sexual misconduct, begins Monday",
+          "publishedAt": "2026-09-15T13:08:29Z",
+          "headline": "Minnesota churches roiled by legal battle over ICE surveillance and right to protest",
           "source": "RNS",
-          "summary": "A church trial began this week for Anglican Archbishop Steve Wood, who faces accusations of sexual misconduct, according to RNS. Julian Dobbs, who has taken over the archbishop's duties during the proceedings, described the period as a difficult and uncomfortable season for the denomination in a statement to church members. The trial marks a significant institutional test for the relatively young Anglican province.",
-          "url": "https://religionnews.com/2026/09/03/church-tiral-of-anglican-archbishop-steve-wood-accused-of-sexual-misconduct-begins-monday/",
-          "trustNote": "Single source: RNS"
+          "description": "",
+          "summary": "According to the Associated Press, congregations in Minneapolis are experiencing ongoing effects from legal disputes concerning ICE surveillance and protest rights, stemming from an intensified immigration enforcement period last winter. The report notes that even churches not directly involved in the litigation say they continue to feel its repercussions within their communities.",
+          "url": "https://religionnews.com/2026/09/14/minnesota-churches-roiled-by-legal-battle-over-ice-surveillance-and-right-to-protest/",
+          "trustNote": "Single source: AP (via RNS)"
         }
       ],
       "verse": {
         "reference": "Micah 6:8",
         "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
-        "reflection": "Today's news touches two different calls to justice — clergy standing for the dignity of the vulnerable, and a church confronting hard questions about its own leadership. Micah reminds us that faithfulness isn't abstract; it's lived out in how we treat others and how honestly we hold ourselves accountable."
+        "reflection": "Whether it's a leader reconsidering the reach of civil power or congregations caught in the tension between law and conscience, this verse reminds us that justice and mercy are not opposing forces but companions. May our communities find the humility to hold both."
       }
     },
     {
@@ -235,27 +237,27 @@
       "articles": [
         {
           "id": "sports-0",
-          "publishedAt": "2026-09-08T12:38:12Z",
-          "headline": "McTominay heart procedure 'a complete success'",
+          "publishedAt": "2026-09-15T13:08:48Z",
+          "headline": "London loses bid to host 2029 World Athletics as Nairobi named host",
           "source": "BBC Sport",
-          "summary": "Napoli have confirmed that Scotland midfielder Scott McTominay's heart procedure was 'a complete success,' according to the club. The club expects him to resume training later this month as he continues his recovery.",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC Sport reports that London's bid to host the 2029 World Athletics Championships was unsuccessful, with Nairobi selected as the host city instead. The 2031 championships will be held in Munich, according to the report.",
+          "url": "https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC Sport"
         },
         {
           "id": "sports-1",
-          "publishedAt": "2026-09-08T12:38:12Z",
-          "headline": "Como chiefs giving up seats to older fans for Champions League debut",
+          "publishedAt": "2026-09-15T13:08:48Z",
+          "headline": "Sweeney ad a barrier for girls in sport - Hunt",
           "source": "BBC Sport",
-          "summary": "Como president Mirwan Suwarso and several club directors are giving up their tickets to the club's first-ever Champions League match so that elderly supporters can attend, according to BBC Sport. The gesture marks a significant milestone for the Italian club as it makes its debut on Europe's biggest club stage.",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cg7kj9r7vzro?at_medium=RSS&at_campaign=rss",
+          "summary": "British sprinter Amy Hunt told BBC Sport she is concerned that a controversial advertisement featuring Sydney Sweeney could act as a barrier to girls' participation in sport. Hunt's comments raise broader questions about the messages young women receive around body image and athletic identity.",
+          "url": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC Sport"
         }
       ],
       "verse": {
-        "reference": "Philippians 2:4",
-        "text": "Let each of you look not only to his own interests, but also to the interests of others.",
-        "reflection": "Whether it's a club celebrating a player's restored health or directors stepping aside so older fans can share in a historic moment, today's sports stories remind us that true joy often comes from putting others first."
+        "reference": "Hebrews 12:1",
+        "text": "Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles, and let us run with perseverance the race marked out for us.",
+        "reflection": "Whether it's a city earning the right to host the world's runners or a young woman wondering if she truly belongs on the track, today's stories are both about who gets to run the race. May we be people who help clear the hurdles for others, especially the next generation of girls stepping onto the field."
       }
     },
     {
@@ -263,27 +265,27 @@
       "articles": [
         {
           "id": "entertainment-0",
-          "publishedAt": "2026-09-08T12:38:25Z",
-          "headline": "Macklemore says 'Free Palestine' call was not an attack on Jewish people",
+          "publishedAt": "2026-09-15T13:09:00Z",
+          "headline": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
           "source": "BBC News",
-          "summary": "Rapper Macklemore addressed backlash after using the phrase 'Free Palestine' during a recent performance, according to BBC News. He said the statement was not intended as an attack on Jewish people, following calls from some ticket buyers for him to be removed from his tour. The controversy highlights ongoing tensions around how public figures address the Israeli-Palestinian conflict.",
-          "url": "https://www.bbc.co.uk/news/articles/cq5x3vjq06qo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "summary": "Actor Matthew Rhys became the first person to win two lead acting prizes in a single night at the Emmy Awards, according to BBC News. The historic achievement was one of several notable moments at the ceremony, which also saw tributes paid to stars including Dolly Parton, James Van Der Beek and Tim Curry.",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by multiple BBC News articles covering the same Emmy Awards ceremony."
         },
         {
           "id": "entertainment-1",
-          "publishedAt": "2026-09-08T12:38:25Z",
-          "headline": "BBC News presenter reveals she has blood cancer",
+          "publishedAt": "2026-09-15T13:09:00Z",
+          "headline": "Legendary costume designer Bob Mackie dies aged 87",
           "source": "BBC News",
-          "summary": "BBC News presenter Maryam Moshiri has revealed she has been diagnosed with blood cancer, according to BBC News. She told the broadcaster she chose to share her diagnosis publicly in order to raise awareness about the disease. No further details about her treatment or prognosis were included in the report.",
-          "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "summary": "Costume designer Bob Mackie, known as the 'Sultan of Sequins,' has died at age 87, BBC News reports. He was celebrated for creating elaborate costumes for entertainers including Cher, Tina Turner and Elton John over a decades-long career.",
+          "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News."
         }
       ],
       "verse": {
-        "reference": "2 Corinthians 1:3-4",
-        "text": "Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort, who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God.",
-        "reflection": "Whether facing public misunderstanding or a private diagnosis, both stories today remind us how much courage it takes to speak openly amid uncertainty. May we extend the same compassion to others that we hope to receive in our own hard seasons."
+        "reference": "Ecclesiastes 3:1, 4",
+        "text": "To every thing there is a season, and a time to every purpose under the heaven... a time to weep, and a time to laugh; a time to mourn, and a time to dance.",
+        "reflection": "Today's entertainment news holds both celebration and loss side by side — a historic Emmy win and the passing of a beloved creative legend. It's a fitting reminder that joy and grief often share the same stage, and both are held within God's timing."
       }
     }
   ],
