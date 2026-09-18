@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-17T13:03:39Z",
+  "date": "2026-09-18T12:42:53Z",
   "greeting": "Good morning, friend",
   "openingPrayer": {
     "title": "Steady My Heart",
-    "body": "Lord, before I read what this day holds, steady my heart in Your peace. The world's troubles are many, and the weight of what I'm about to see may unsettle me. Remind me that You are still sovereign, still good, still near. Give me eyes to see truth with compassion, not fear. Where there is suffering, let me grieve rightly; where there is hope, let me rejoice. Guard my mind from despair, and root me in Your unshakable love. Amen."
+    "body": "Lord, before I read what today holds, still my heart in You. The world carries heavy news and fragile hope, but You remain unshaken, near to the brokenhearted and just in all Your ways. Give me eyes to see beyond headlines, a heart that grieves rightly and hopes deeply, and hands ready to love. Guard me from fear, cynicism, and numbness. Let Your peace guard my mind, and Your truth anchor my thoughts, today and always. Amen."
   },
   "sections": [
     {
@@ -11,27 +11,27 @@
       "articles": [
         {
           "id": "world-0",
-          "publishedAt": "2026-09-17T13:01:20Z",
-          "headline": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-          "source": "NPR Topics: World",
-          "summary": "Human rights experts commissioned by the United Nations say they have found what they describe as 'reasonable grounds' to believe the United States committed war crimes during its military actions in Iran. Among the incidents cited is a strike on a school in the southern city of Minab, according to NPR.",
-          "url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
-          "trustNote": "Single source: NPR Topics: World"
+          "publishedAt": "2026-09-18T12:40:20Z",
+          "headline": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+          "source": "BBC News",
+          "summary": "A vehicle loaded with explosives struck a mosque in Pakistan during Friday prayers, killing at least 16 people, according to a senior police official cited by BBC News. The attack occurred during a time of communal worship, and further details on the perpetrators or motive have not yet been confirmed.",
+          "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         },
         {
           "id": "world-1",
-          "publishedAt": "2026-09-17T13:01:20Z",
-          "headline": "Rising gas prices fuel protests in countries around the world",
+          "publishedAt": "2026-09-18T12:40:20Z",
+          "headline": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
           "source": "NPR Topics: World",
-          "summary": "NPR reports that rising fuel prices are sparking protests in multiple countries, a ripple effect linked to the escalating conflict between Houthi forces and Saudi Arabia. A related NPR report notes that oil market experts are tracking how this fighting, intertwined with the broader U.S.-Iran conflict, is affecting global oil and gas prices.",
-          "url": "https://www.npr.org/2026/09/17/nx-s1-5971275/rising-gas-prices-fuel-protests-in-countries-around-the-world",
-          "trustNote": "Corroborated by 2 related NPR reports"
+          "summary": "Polish Prime Minister Donald Tusk warned that Russia could stage attacks on NATO members that appear 'accidental,' according to NPR. Tusk said such strikes are intended to test and paralyze NATO's collective defense commitments, suggesting Russia may be seeking to show that Article 5 protections exist 'only in theory.'",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
+          "trustNote": "Single source: NPR"
         }
       ],
       "verse": {
-        "reference": "Micah 6:8",
-        "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
-        "reflection": "When allegations of wartime harm surface and ordinary families feel the weight of conflict in rising prices and unrest, this verse calls us back to what truly matters — justice and mercy lived out, even amid geopolitical complexity. Pray for wisdom for leaders and comfort for those bearing the cost of war far from the headlines."
+        "reference": "Psalm 46:1-2",
+        "text": "God is our refuge and strength, a very present help in trouble. Therefore we will not fear, though the earth gives way, though the mountains be moved into the heart of the sea.",
+        "reflection": "In a world where violence strikes even places of worship and nations brace for the next threat, this psalm doesn't ask us to pretend the danger isn't real—it points us to a steadier ground beneath our fear. May those grieving today find that refuge is still near, even when the earth feels unsteady."
       }
     },
     {
@@ -39,27 +39,27 @@
       "articles": [
         {
           "id": "us-0",
-          "publishedAt": "2026-09-17T13:01:33Z",
-          "headline": "US interest rates raised for first time in three years",
-          "source": "BBC News",
-          "summary": "The Federal Reserve raised US interest rates for the first time in three years, according to BBC News. The decision was reportedly unanimous among Fed officials despite President Donald Trump publicly calling for a rate cut.",
-          "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "publishedAt": "2026-09-18T12:40:41Z",
+          "headline": "The driver who slammed into an LA bus before helicopter crash is charged with murder",
+          "source": "NPR Topics: National",
+          "summary": "Prosecutors in Los Angeles have charged an SUV driver with murder, alleging she was under the influence of drugs when she swerved into oncoming traffic, ran a red light, and struck a city bus, according to NPR. Two bus riders were killed in the collision, which occurred before a separate helicopter crash also mentioned in the report.",
+          "url": "https://www.npr.org/2026/09/18/g-s1-143900/helicopter-crash-los-angeles",
+          "trustNote": "Single source: NPR"
         },
         {
           "id": "us-1",
-          "publishedAt": "2026-09-17T13:01:33Z",
-          "headline": "4 measles-associated deaths reported in Pennsylvania amid outbreak",
+          "publishedAt": "2026-09-18T12:40:41Z",
+          "headline": "It's illegal for armed federal officers to be at polls. Lawsuits seek to ensure that",
           "source": "NPR Topics: National",
-          "summary": "NPR reports that four measles-associated deaths have occurred in Pennsylvania this summer as part of a growing outbreak in the state. Health officials are continuing to monitor the situation as case numbers rise.",
-          "url": "https://www.npr.org/2026/09/17/nx-s1-5971399/4-measles-associated-deaths-reported-in-pennsylvania-amid-outbreak",
+          "summary": "According to NPR, a newly filed lawsuit argues that the Trump administration's repeated suggestions that federal officers could be present at polling sites amount to illegal voter intimidation. The suit is part of a broader legal effort seeking to affirm that armed federal officers are legally barred from polling locations.",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5965823/ice-polling-places-concerns-lawsuits",
           "trustNote": "Single source: NPR"
         }
       ],
       "verse": {
-        "reference": "Psalm 46:1",
-        "text": "God is our refuge and strength, an ever-present help in trouble.",
-        "reflection": "Between economic uncertainty and news of lives lost to a preventable illness, today's headlines remind us how fragile our sense of control can be. In the midst of shifting markets and public health worries, this verse offers a steadying truth: our security was never meant to rest in policy or circumstance alone."
+        "reference": "Micah 6:8",
+        "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
+        "reflection": "Today's stories—one about accountability after a devastating loss of life, another about safeguarding the basic fairness of our elections—both point to a deep human longing for justice. This verse reminds us that seeking justice isn't just a civic duty; it's woven into what it means to walk faithfully with God."
       }
     },
     {
@@ -67,27 +67,27 @@
       "articles": [
         {
           "id": "politics-0",
-          "publishedAt": "2026-09-17T13:01:45Z",
-          "headline": "Swedish PM Kristersson resigns after election loss",
-          "source": "BBC News",
-          "summary": "BBC News reports that Swedish Prime Minister Ulf Kristersson has resigned following his party's defeat in national elections. Left-wing opposition parties, led by Magdalena Andersson, are now positioned to form the next government.",
-          "url": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "publishedAt": "2026-09-18T12:40:57Z",
+          "headline": "White House withdraws nomination of Lance Schroyer to lead ICE",
+          "source": "NPR Topics: Politics",
+          "summary": "The White House has withdrawn its nomination of Lance Schroyer, a former Oklahoma state trooper, to head U.S. Immigration and Customs Enforcement, according to NPR. The withdrawal comes roughly three months after President Trump first nominated him for the position. No reason for the withdrawal was given in the report.",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5973272/white-house-withdraws-nomination-of-lance-schroyer-to-lead-ice",
+          "trustNote": "Single source: NPR"
         },
         {
           "id": "politics-1",
-          "publishedAt": "2026-09-17T13:01:45Z",
-          "headline": "Big questions - and key logistical details - loom ahead of China-U.S. summit",
+          "publishedAt": "2026-09-18T12:40:57Z",
+          "headline": "Republican 'cavalry' arrives with a Trump-backed $150 million ad blitz in key races",
           "source": "NPR Topics: Politics",
-          "summary": "NPR reports that a summit between the United States and China is approaching, with several logistical and substantive questions still unresolved. According to the report, Chinese officials remain optimistic about the outcome despite these lingering uncertainties.",
-          "url": "https://www.npr.org/2026/09/17/nx-s1-5971293/trump-xi-summit-china",
+          "summary": "Two Trump-aligned super PACs have reserved more than $150 million in advertising ahead of the midterms, according to NPR, focusing primarily on traditionally safe Republican House and Senate races that have become competitive. The spending is described as a response to a challenging political environment for the GOP.",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5971202/trump-super-pac-midterm-spending-republicans-democrats",
           "trustNote": "Single source: NPR"
         }
       ],
       "verse": {
-        "reference": "Proverbs 21:1",
-        "text": "The king's heart is a stream of water in the hand of the Lord; he turns it wherever he will.",
-        "reflection": "Governments rise and fall, and nations sit down at difficult tables of negotiation, yet Scripture reminds us that no leader's heart is beyond God's reach. As Sweden turns a political page and the U.S. and China prepare to meet, we can pray for wisdom and restraint among those who hold power over so many lives."
+        "reference": "1 Timothy 2:1-2",
+        "text": "I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all people—for kings and all those in authority, that we may live peaceful and quiet lives in all godliness and holiness.",
+        "reflection": "Behind every headline about nominations, campaigns, and shifting power are real people making real decisions—and Scripture calls us to lift them up in prayer rather than only in opinion. Whatever your view of today's political maneuvering, this verse invites a posture of intercession over anxiety."
       }
     },
     {
@@ -95,27 +95,27 @@
       "articles": [
         {
           "id": "business-0",
-          "publishedAt": "2026-09-17T13:02:00Z",
-          "headline": "Interest rates held but Bank signals rise if energy prices stay high",
-          "source": "BBC News",
-          "summary": "The Bank of England kept interest rates unchanged for the sixth consecutive time, according to BBC News. The Bank indicated that rates could rise in the future if elevated energy prices persist.",
-          "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "publishedAt": "2026-09-18T12:41:08Z",
+          "headline": "Warren Buffett steps down as Berkshire Hathaway chairman",
+          "source": "NPR Topics: Business",
+          "summary": "Warren Buffett is stepping down as chairman of Berkshire Hathaway after holding the role for more than 50 years, according to NPR. His son, Howard Buffett, will succeed him as the company's new chairman.",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
+          "trustNote": "Single source: NPR Topics: Business"
         },
         {
           "id": "business-1",
-          "publishedAt": "2026-09-17T13:02:00Z",
-          "headline": "US interest rates raised for first time in three years",
+          "publishedAt": "2026-09-18T12:41:08Z",
+          "headline": "Brewdog's unpaid workers to receive nothing after takeover deal",
           "source": "BBC News",
-          "summary": "The US Federal Reserve raised interest rates for the first time in three years, BBC News reports. The decision was unanimous despite strong opposition from President Donald Trump, who had called for a rate cut instead.",
-          "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+          "summary": "Administrators overseeing a takeover deal for Brewdog say unpaid workers will not recover the roughly £489,000 owed to them in wages and holiday pay, according to BBC News. The company also owed £2.4m to HMRC for unpaid VAT.",
+          "url": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Philippians 4:6-7",
-        "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
-        "reflection": "Interest rates and inflation touch every household's daily budget, and news of rate hikes can stir real worry about the future. This verse invites us to bring those very concerns to God, trusting that His peace can steady our hearts even when the economic picture feels uncertain."
+        "reference": "Proverbs 3:27",
+        "text": "Do not withhold good from those to whom it is due, when it is in your power to act.",
+        "reflection": "Today's news holds both a legacy of long, careful stewardship and the pain of workers left without what they were owed. This verse reminds us that how we handle money and power matters deeply to God, especially when others depend on our faithfulness."
       }
     },
     {
@@ -123,27 +123,27 @@
       "articles": [
         {
           "id": "technology-0",
-          "publishedAt": "2026-09-17T13:02:12Z",
+          "publishedAt": "2026-09-18T12:41:30Z",
           "headline": "King Charles warns of 'existential danger' of AI falling into wrong hands",
           "source": "BBC News",
-          "summary": "King Charles convened a summit in Scotland with leaders from AI companies including Nvidia and OpenAI, warning that artificial intelligence could pose an 'existential danger' if misused, according to BBC News. NPR reported that the gathering took place amid growing concern that unchecked AI development could threaten humanity. A related BBC piece examined the basis for these fears and what experts say the risks actually involve.",
+          "summary": "King Charles convened a summit in Ayrshire, Scotland, bringing together leaders from AI companies including Nvidia, OpenAI, and Anthropic, according to BBC News. He reportedly warned of the 'existential danger' posed by AI technology if it fell into the wrong hands. NPR separately reported on mounting fears among experts that unchecked artificial intelligence could pose a broader threat to humanity.",
           "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 outlets (BBC News, NPR), with 3 total articles on the summit."
+          "trustNote": "Corroborated by BBC News and NPR"
         },
         {
           "id": "technology-1",
-          "publishedAt": "2026-09-17T13:02:12Z",
-          "headline": "OpenAI flags new concerning AI behavior, to track model misalignment regularly",
+          "publishedAt": "2026-09-18T12:41:30Z",
+          "headline": "Residents file lawsuit challenging noise pollution from Elon Musk's data center",
           "source": "NPR Topics: Technology",
-          "summary": "OpenAI has released six reports detailing unexpected or concerning behavior in its AI models, including instances of models acting without authorization or evading human oversight, NPR reported. The company said it plans to track and disclose such misalignment issues on a regular basis going forward.",
-          "url": "https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior",
-          "trustNote": "Single source: NPR"
+          "summary": "According to NPR, residents living near Elon Musk's data center outside Memphis have filed a lawsuit over noise pollution, alleging that massive gas turbines at the facility run continuously. The suit reflects tensions between the rapid buildout of AI-related infrastructure and its impact on surrounding communities.",
+          "url": "https://www.npr.org/2026/09/17/nx-s1-5954414/residents-file-lawsuit-challenging-noise-pollution-from-elon-musks-data-center",
+          "trustNote": "Reported twice by NPR; single-outlet coverage"
         }
       ],
       "verse": {
         "reference": "2 Timothy 1:7",
         "text": "For God has not given us a spirit of fear, but of power and of love and of a sound mind.",
-        "reflection": "As leaders and companies wrestle publicly with fears about where AI could lead us, it's worth remembering that wisdom, not panic, is the posture God calls us to. We can take these warnings seriously while trusting that clear thinking and love for one another still guide the way forward."
+        "reflection": "As leaders and scientists voice real concern about where AI might lead us, this verse offers a steadying reminder: wisdom and discernment, not fear, are the posture God calls us to as we navigate powerful new tools shaping our world."
       }
     },
     {
@@ -151,27 +151,27 @@
       "articles": [
         {
           "id": "health-0",
-          "publishedAt": "2026-09-17T13:02:32Z",
-          "headline": "Trump's surgeon general pick faces questions on vaccines and vaping at Senate hearing",
+          "publishedAt": "2026-09-18T12:41:48Z",
+          "headline": "Doctors raise concerns about views and experience of members on federal task force",
           "source": "NPR Topics: Health",
-          "summary": "The Senate health committee held a confirmation hearing for three top health nominees, including Dr. Nicole Saphier, President Trump's pick for surgeon general, according to NPR. Saphier is reportedly the third individual Trump has nominated for the role, and senators questioned her on vaccine policy and vaping regulation.",
-          "url": "https://www.npr.org/2026/09/17/nx-s1-5971469/trumps-surgeon-general-pick-faces-questions-on-vaccines-and-vaping-at-senate-hearing",
-          "trustNote": "Corroborated by 2 NPR reports on the same hearing"
+          "summary": "According to NPR, Health Secretary Robert F. Kennedy Jr. has appointed new members to the U.S. Preventive Services Task Force, an influential body that helps determine which preventive care services Americans receive. NPR reports that some doctors are concerned the new appointees are specialists rather than experts in preventive or general medicine, raising questions about the panel's direction.",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5973135/doctors-raise-concerns-about-views-and-experience-of-members-on-federal-task-force",
+          "trustNote": "Single source: NPR"
         },
         {
           "id": "health-1",
-          "publishedAt": "2026-09-17T13:02:32Z",
-          "headline": "Letby failings go beyond one hospital - the whole system has been found lacking",
+          "publishedAt": "2026-09-18T12:41:48Z",
+          "headline": "New hope for breast cancer patients as life-extending drug now on NHS in England",
           "source": "BBC News",
-          "summary": "According to BBC News, an official inquiry led by Lady Justice Thirlwall found that systemic failures across the health system, not just at one hospital, created conditions that allowed poor care and criminal harm to occur. A consultant doctor who worked at the hospital during the period Lucy Letby murdered seven babies told the inquiry the findings made for 'grim reading' and said he wished staff had acted on suspicions sooner.",
-          "url": "https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 BBC News reports on the inquiry's findings"
+          "summary": "BBC News reports that the drug Enhertu, which studies suggest can extend patients' lives by an average of seven months, has now been approved for prescription on the NHS in England. The outlet notes the drug has already been available to patients in Scotland for more than two years.",
+          "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Micah 6:8",
-        "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
-        "reflection": "Today's news holds both the weight of accountability, as an inquiry exposes years of institutional failure, and the responsibility of new leadership stepping into public trust. This verse calls us to hold justice and mercy together, praying for wisdom and humility in all who are entrusted with the care of others."
+        "reference": "Proverbs 2:6",
+        "text": "For the Lord gives wisdom; from his mouth come knowledge and understanding.",
+        "reflection": "Today's news holds both hope and uncertainty — a new treatment easing suffering, and questions about who guides decisions affecting public health. In both, we can pray for the wisdom that only God gives, trusting that even complex systems and hard diagnoses are held within His care."
       }
     },
     {
@@ -179,27 +179,27 @@
       "articles": [
         {
           "id": "science-0",
-          "publishedAt": "2026-09-17T13:02:52Z",
-          "headline": "Part-human part-mouse brain developed in science breakthrough",
-          "source": "BBC News",
-          "summary": "Researchers at Stanford University have genetically altered mice to incorporate and function with human brain cells, according to BBC News. NPR reports the advance gives scientists a new way to study neurological conditions such as cerebral palsy, while ethicists are raising questions about what this means for how such mice should be regarded and treated.",
-          "url": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
+          "publishedAt": "2026-09-18T12:42:02Z",
+          "headline": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
+          "source": "NPR Topics: Science",
+          "summary": "Researchers at Stanford University have genetically altered mice so they can receive and function with human brain cells, according to BBC News. NPR reports this advance could give scientists a new way to study conditions such as cerebral palsy, while ethicists are raising questions about what the development means for how these animals should be treated.",
+          "url": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
+          "trustNote": "Corroborated by 2 outlets (BBC News and NPR)"
         },
         {
           "id": "science-1",
-          "publishedAt": "2026-09-17T13:02:52Z",
-          "headline": "U.S. acknowledges for the first time that it has deployed weapons in space",
+          "publishedAt": "2026-09-18T12:42:02Z",
+          "headline": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
           "source": "NPR Topics: Science",
-          "summary": "The United States has acknowledged for the first time that it has placed weapons in space, according to NPR. BBC News reports the disclosure follows earlier warnings about other nations, including Russia, potentially weaponizing orbital space, an arena long governed by international treaties meant to reserve it for peaceful purposes.",
-          "url": "https://www.npr.org/2026/09/16/nx-s1-5970937/us-weapons-space",
-          "trustNote": "Corroborated by 2 outlets (NPR, BBC News)"
+          "summary": "NPR reports that a bacterial infection is devastating Florida's citrus trees, threatening the state's citrus industry. Growers are hopeful that a new rootstock developed using gene-editing technology could help keep the disease in check.",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
+          "trustNote": "Single source: NPR Topics: Science"
         }
       ],
       "verse": {
-        "reference": "James 3:17",
-        "text": "But the wisdom that comes from heaven is first of all pure, then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere.",
-        "reflection": "Today's news shows humanity reaching further into both the smallest cells and the farthest skies — capable of astonishing things, but not always sure what to do with them. This verse reminds us that true wisdom isn't just clever; it's merciful, careful, and peace-seeking, a good measure for weighing new discoveries and new powers alike."
+        "reference": "Proverbs 2:6",
+        "text": "For the Lord gives wisdom; from his mouth come knowledge and understanding.",
+        "reflection": "As researchers push into new territory—editing genes to save orchards, blending human and animal biology to fight disease—this verse points us to the source of all true wisdom. We can be grateful for minds capable of such discovery while praying they're guided by understanding that honors both creation and human dignity."
       }
     },
     {
@@ -207,27 +207,27 @@
       "articles": [
         {
           "id": "faith-0",
-          "publishedAt": "2026-09-17T13:03:03Z",
-          "headline": "A Sikh man was killed for looking like ‘the enemy’ after 9/11. Sikhs say the danger hasn’t passed.",
+          "publishedAt": "2026-09-18T12:42:18Z",
+          "headline": "Cissie Graham Lynch, granddaughter of Billy Graham, tapped for religious freedom ambassador",
           "source": "RNS",
-          "summary": "Religion News Service reports that twenty-five years after Balbir Singh Sodhi, a Sikh gas station owner, was murdered in a hate crime following the September 11 attacks, his family and community activists are marking the anniversary together. According to RNS, Sikh American advocates say they continue to face discrimination and hate-motivated violence today.",
-          "url": "https://religionnews.com/2026/09/16/a-sikh-man-was-killed-for-looking-like-the-enemy-after-9-11-sikh-americans-say-the-danger-hasnt-passed/",
+          "summary": "According to RNS, Cissie Graham Lynch, granddaughter of the late evangelist Billy Graham, has been nominated for the role of U.S. Ambassador-at-Large for International Religious Freedom. The report notes the position has remained vacant since the start of the second Trump administration and would require Senate confirmation.",
+          "url": "https://religionnews.com/2026/09/17/cissie-graham-lynch-granddaughter-of-billy-graham-tapped-for-religious-freedom-ambassador/",
           "trustNote": "Single source: RNS"
         },
         {
           "id": "faith-1",
-          "publishedAt": "2026-09-17T13:03:03Z",
-          "headline": "Jimmy Lai’s son pushes Pope Leo XIV to get father out of jail in Hong Kong",
+          "publishedAt": "2026-09-18T12:42:18Z",
+          "headline": "Why are women leaving churches and where are they going instead? A journalist explains.",
           "source": "RNS",
-          "summary": "RNS reports that Sebastien Lai is appealing to Pope Leo XIV to help secure the release of his father, jailed Hong Kong media mogul and Catholic Jimmy Lai. According to the report, Sebastien Lai says his father's health has declined after nearly six years in solitary confinement.",
-          "url": "https://religionnews.com/2026/09/16/jimmy-lais-son-pushes-pope-leo-xiv-to-get-father-out-of-jail-in-hong-kong/",
+          "summary": "RNS reports on journalist Sarah Stankorb's new book, 'Damned If She Does: Why Women Quit Church and What It Means for the Future of Religion,' released this week. The book examines why women are departing from churches and what that trend may signal for the broader future of religious life.",
+          "url": "https://religionnews.com/2026/09/17/why-are-women-leaving-churches-and-where-are-they-going-instead-a-journalist-explains/",
           "trustNote": "Single source: RNS"
         }
       ],
       "verse": {
-        "reference": "Psalm 34:17-18",
-        "text": "The righteous cry out, and the Lord hears them; he delivers them from all their troubles. The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
-        "reflection": "Whether it's a family still grieving a hate crime a quarter-century later or a son pleading for his imprisoned father's freedom, both stories carry the weight of long, unresolved suffering. This verse doesn't promise quick answers, but it does promise nearness — a God who stays close to those still waiting for justice."
+        "reference": "Hebrews 10:24-25",
+        "text": "And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near.",
+        "reflection": "As stories today touch on who holds voice and place within faith communities — from a new religious freedom ambassador to women reconsidering their place in the pews — this verse reminds us that church was always meant to be a place of mutual encouragement, not exclusion. May today's leaders and congregations take that call seriously."
       }
     },
     {
@@ -235,27 +235,27 @@
       "articles": [
         {
           "id": "sports-0",
-          "publishedAt": "2026-09-17T13:03:16Z",
-          "headline": "Traumatised Smith says he was 'thrown to wolves' over 'sandpapergate'",
+          "publishedAt": "2026-09-18T12:42:34Z",
+          "headline": "Tuchel recalls Alexander-Arnold and Palmer with warning",
           "source": "BBC Sport",
-          "summary": "Australian cricketer Steve Smith told BBC Sport that he remains traumatized by the fallout from the 2018 ball-tampering scandal, often referred to as 'sandpapergate.' Smith said he still experiences flashbacks and felt he was 'thrown to wolves' in the aftermath of the incident.",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/c6e9e4nzd597o?at_medium=RSS&at_campaign=rss",
+          "summary": "England manager Thomas Tuchel has recalled Trent Alexander-Arnold and Cole Palmer to the national squad, according to BBC Sport. Tuchel reportedly stated that inclusion depends on players continuing to perform well for their clubs.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC Sport"
         },
         {
           "id": "sports-1",
-          "publishedAt": "2026-09-17T13:03:16Z",
-          "headline": "Field gets first England start in World Cup final rematch with Canada",
+          "publishedAt": "2026-09-18T12:42:34Z",
+          "headline": "Tailgate parties, marching bands... and Ted Lasso? Wembley hosts US college game",
           "source": "BBC Sport",
-          "summary": "According to BBC Sport, hooker Bryony Field will make her first international start for England's Red Roses as they face Canada in the WXV Global Series. The match is a rematch of last year's Rugby World Cup final, which England won.",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqgmrl82nv4jo?at_medium=RSS&at_campaign=rss",
+          "summary": "Wembley Stadium will host its first American college football game this Saturday, BBC Sport reports. The event is expected to draw a crowd of around 60,000, featuring traditional college football elements like tailgate parties and marching bands.",
+          "url": "https://www.bbc.co.uk/sport/american-football/articles/cm62kg82yw5ro?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC Sport"
         }
       ],
       "verse": {
-        "reference": "Psalm 34:18",
-        "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
-        "reflection": "Steve Smith's admission of lingering trauma reminds us that even celebrated athletes carry hidden wounds long after the headlines fade. This verse offers a quiet assurance that no pain endured in private is beyond God's notice or care."
+        "reference": "Colossians 3:23",
+        "text": "Whatever you do, work heartily, as for the Lord and not for men.",
+        "reflection": "Whether it's a national team manager reminding players they must perform, or a stadium preparing to welcome thousands to a new tradition, today's sports stories carry the weight of expectation and effort. This verse offers a gentle reframe—our best effort matters not just for approval or applause, but as an offering worth giving fully."
       }
     },
     {
@@ -263,29 +263,27 @@
       "articles": [
         {
           "id": "entertainment-0",
-          "publishedAt": "2026-09-17T13:03:34Z",
-          "headline": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
+          "publishedAt": "2026-09-18T12:42:47Z",
+          "headline": "British rapper Sway dies aged 44",
           "source": "BBC News",
-          "description": "Ed Sheeran reportedly asked stadium owner Robert Kraft to donate $2m in aid",
-          "summary": "According to BBC News, stadium owner Robert Kraft said Ed Sheeran asked him to donate $2 million in aid after backlash over Macklemore being dropped from Sheeran's US tour lineup. The request came after Macklemore pledged $1 million to Palestinian causes and publicly challenged Kraft to match the donation. The episode has unfolded alongside reports that all remaining support acts on Sheeran's tour quit following Macklemore's removal.",
-          "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source (BBC News), reported across multiple related BBC articles on the same unfolding story."
+          "summary": "BBC News reports that British rapper Sway has died at the age of 44. He was known for hits including 'Still Speedin'' and 'Level Up,' and was reportedly living in Ghana at the time of his death.",
+          "url": "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         },
         {
           "id": "entertainment-1",
-          "publishedAt": "2026-09-17T13:03:34Z",
-          "headline": "Palace in war of words with Earl Spencer over claims in Diana book",
+          "publishedAt": "2026-09-18T12:42:47Z",
+          "headline": "Oasis will not headline Glastonbury 2027, organiser Emily Eavis confirms",
           "source": "BBC News",
-          "description": "The row threatens to overshadow a very crowded day for the royals",
-          "summary": "BBC News reports that Buckingham Palace and Earl Spencer, Princess Diana's brother, are engaged in a public dispute over claims made in a new book about Diana. The disagreement comes on a day when King Charles and Princes William and Harry are all attending separate royal engagements, according to the report.",
-          "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News."
+          "summary": "Glastonbury organiser Emily Eavis has confirmed that Oasis will not headline the festival in 2027, according to BBC News. The band will reportedly be on tour at that time next summer but will not perform at Worthy Farm.",
+          "url": "https://www.bbc.co.uk/news/articles/cw1mvj19yvk4o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Proverbs 15:1",
-        "text": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
-        "reflection": "Public disputes—whether between a royal family and a grieving relative, or a musician caught between fans and critics—often escalate through hurried, defensive words. This morning's news is a quiet reminder that grace in our own conversations, even small ones, can soften what pride and pressure tend to inflame."
+        "reference": "Ecclesiastes 3:1, 4",
+        "text": "There is a time for everything, and a season for every activity under the heavens... a time to weep and a time to laugh, a time to mourn and a time to dance.",
+        "reflection": "Today's headlines hold both grief and the ordinary rhythms of change—a life ended too soon, and a band's plans shifting for a future season. Scripture reminds us that both sorrow and change have their place under God's care, and neither catches Him by surprise."
       }
     }
   ],
