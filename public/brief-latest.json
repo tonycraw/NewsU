@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-19T12:17:24Z",
+  "date": "2026-09-22T13:05:42Z",
   "greeting": "Good morning, friend",
   "openingPrayer": {
     "title": "Steady My Heart",
-    "body": "Lord, before I read what today holds, quiet my heart in Your peace. The world brings heavy news and hopeful glimmers alike, but You remain unshaken above it all. Give me eyes to see with discernment, a heart that grieves rightly, and hope that does not waver. Let me carry Your steadiness into every headline, trusting that You are still writing the larger story. Keep me anchored in truth, compassion, and faith, no matter what I read today. Amen."
+    "body": "Lord, before I read of a world still aching with conflict, loss, and grief, quiet my heart in Your peace. Remind me that You are near to the brokenhearted and sovereign over every headline I will see. Give me eyes to see truth without fear, a heart that grieves rightly, and hope that does not waver. Let me carry Your compassion into this day, trusting that You are making all things new, even when the news says otherwise. Amen."
   },
   "sections": [
     {
@@ -11,27 +11,27 @@
       "articles": [
         {
           "id": "world-0",
-          "publishedAt": "2026-09-19T12:15:08Z",
-          "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
+          "publishedAt": "2026-09-22T13:03:15Z",
+          "headline": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
           "source": "BBC News",
-          "summary": "The United States and Denmark have reached an agreement regarding Greenland, following months of tension after President Trump threatened to annex the Danish territory. According to BBC News, Trump says the deal grants the US 'permanent control over security and all other needs' on the island, while NPR reports the arrangement will expand the US military presence there with Denmark's cooperation. Both Denmark and Greenland have reportedly welcomed the agreement.",
-          "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
+          "summary": "A Sri Lankan court has convicted 15 men for their involvement in the 2019 Easter Sunday bombings, according to BBC News. The coordinated attacks targeted churches and hotels and were reported as the deadliest violence Sri Lanka had experienced since the end of its civil war.",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         },
         {
           "id": "world-1",
-          "publishedAt": "2026-09-19T12:15:08Z",
-          "headline": "Russia holds parliamentary vote in areas it seized from Ukraine",
+          "publishedAt": "2026-09-22T13:03:15Z",
+          "headline": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
           "source": "NPR Topics: World",
-          "summary": "Russia is holding its first nationwide parliamentary election since launching its full-scale invasion of Ukraine in 2022, according to NPR. For the first time, voting is taking place in Ukrainian regions that Moscow annexed after the invasion began, a move NPR notes is considered illegal under international law. Russians nationwide are choosing lawmakers for the Duma.",
-          "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
-          "trustNote": "Reported by NPR in two separate dispatches on the same story"
+          "summary": "Iranian-backed Houthi forces are advancing further into western Yemen, displacing more than 100,000 people, NPR reports based on accounts from witnesses. The report notes the advance comes as the broader U.S. conflict with Iran continues, deepening an already severe humanitarian crisis.",
+          "url": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis",
+          "trustNote": "Single source: NPR Topics: World"
         }
       ],
       "verse": {
-        "reference": "Psalm 82:3",
-        "text": "Defend the weak and the fatherless; uphold the cause of the poor and the oppressed.",
-        "reflection": "Today's news carries stories of nations negotiating power and territory, and of people living under contested rule with little say in their own future. This verse calls us to remember those caught in between—to pray for justice and peace for the vulnerable, even amid decisions made far above their heads."
+        "reference": "Psalm 82:3-4",
+        "text": "Defend the weak and the fatherless; uphold the cause of the poor and the oppressed. Rescue the weak and needy; deliver them from the hand of the wicked.",
+        "reflection": "Today's news holds both a measure of justice for those wounded by violence in Sri Lanka and fresh sorrow for families uprooted in Yemen. This verse reminds us that God sees every grieving community and displaced family, and calls us to stand with them in prayer and compassion."
       }
     },
     {
@@ -39,27 +39,29 @@
       "articles": [
         {
           "id": "us-0",
-          "publishedAt": "2026-09-19T12:15:28Z",
-          "headline": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+          "publishedAt": "2026-09-22T13:03:30Z",
+          "headline": "Grand jury finds no criminal charges in death of Mississippi teen Nolan Wells",
           "source": "BBC News",
-          "summary": "President Trump announced he is banning CNN, MS NOW, and Politico from the White House, according to BBC News and NPR. Trump attributed the decision to what he characterized as unfavorable coverage, and NPR reported he suggested bans on other media outlets could follow.",
-          "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
+          "description": "",
+          "summary": "A Mississippi grand jury determined there was no evidence of criminal conduct in the death of Nolan Wells, a Black teenager found dead on Horn Island after boating there with three white acquaintances over Independence Day, according to BBC News and NPR. NPR reports the cause of death was ruled consistent with drowning, and no indictments were issued. Wells' family had earlier voiced concern about the circumstances surrounding his death.",
+          "url": "https://www.bbc.co.uk/news/articles/c98r62j4jl5mo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 outlets (BBC News and NPR)"
         },
         {
           "id": "us-1",
-          "publishedAt": "2026-09-19T12:15:28Z",
-          "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
+          "publishedAt": "2026-09-22T13:03:30Z",
+          "headline": "White House press ban sparks broadcaster boycott and lawsuit",
           "source": "BBC News",
-          "summary": "The United States and Denmark have reached an agreement concerning Greenland, following earlier threats from President Trump to annex the territory, according to BBC News. Denmark and Greenland reportedly welcomed the deal, which Trump said grants the US \"permanent control over security and all other needs\" in the Danish territory.",
-          "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "description": "",
+          "summary": "President Trump barred CNN, MS NOW and Politico from the White House press pool, prompting the three outlets to file a lawsuit challenging the ban, according to BBC News and NPR. In protest, major U.S. networks reportedly suspended shared coverage of the president as he traveled to New York for the U.N. General Assembly. The dispute has intensified tensions between the administration and the press corps.",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 outlets (BBC News and NPR)"
         }
       ],
       "verse": {
-        "reference": "James 3:17",
-        "text": "But the wisdom that comes from heaven is first of all pure, then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere.",
-        "reflection": "Whether it's tension between leaders and the press or nations finding common ground after threats of conflict, today's headlines remind us how rare and valuable true wisdom is. May we pray for leaders—and for ourselves—to seek the kind of wisdom that builds peace rather than division."
+        "reference": "Micah 6:8",
+        "text": "He has shown you, O mortal, what is good. And what does the LORD require of you? To act justly and to love mercy and to walk humbly with your God.",
+        "reflection": "In a day marked by questions of justice for a grieving family and disputes over truth and access in public life, this verse reminds us that faithfulness looks like humble integrity — seeking what's right even when the full picture is unclear, and holding both mercy and honesty close."
       }
     },
     {
@@ -67,27 +69,27 @@
       "articles": [
         {
           "id": "politics-0",
-          "publishedAt": "2026-09-19T12:15:39Z",
-          "headline": "Trump says he is banning CNN, MS NOW and Politico from the White House",
-          "source": "NPR Topics: Politics",
-          "summary": "President Trump announced he is barring CNN, MS NOW, and Politico from White House access, according to NPR and BBC News. Trump attributed the decision to what he described as unfavorable coverage and suggested additional media bans could follow. The move continues a pattern of tension between the administration and several major news outlets.",
-          "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
-          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
+          "publishedAt": "2026-09-22T13:03:42Z",
+          "headline": "Major US outlets boycott shared Trump coverage in protest at media ban",
+          "source": "BBC News",
+          "summary": "Several major American news organizations have said they will no longer participate in the shared \"pool\" coverage of President Trump, BBC News reports. The move follows Trump's decision to ban CNN, MS NOW, and Politico from White House press access, which other outlets say disrupts standard press operations.",
+          "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         },
         {
           "id": "politics-1",
-          "publishedAt": "2026-09-19T12:15:39Z",
-          "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
-          "source": "BBC News",
-          "summary": "The United States and Denmark have reached an agreement concerning Greenland, according to BBC News, following earlier threats from President Trump about annexing the territory. Denmark and Greenland reportedly welcomed the deal, while Trump claimed it grants the US 'permanent control over security and all other needs' in the Danish territory. Details of the full agreement were not specified.",
-          "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "publishedAt": "2026-09-22T13:03:42Z",
+          "headline": "Trump heads to U.N. looking for wins after a rough week",
+          "source": "NPR Topics: Politics",
+          "summary": "President Trump is traveling to the United Nations General Assembly following what NPR describes as a difficult stretch marked by legal and political setbacks. NPR reports the trip is being viewed as an opportunity for the administration to shift momentum on the international stage.",
+          "url": "https://www.npr.org/2026/09/22/nx-s1-5976843/trump-heads-to-u-n-looking-for-wins-after-a-rough-week",
+          "trustNote": "Single source: NPR Topics: Politics"
         }
       ],
       "verse": {
-        "reference": "James 1:19",
-        "text": "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry.",
-        "reflection": "In a week marked by media bans and high-stakes negotiations, this verse reminds us that patience and careful listening — even amid disagreement — often serve truth better than quick anger. May today's leaders and citizens alike seek understanding before reaction."
+        "reference": "Psalm 146:3",
+        "text": "Put not your trust in princes, in a son of man, in whom there is no salvation.",
+        "reflection": "Amid headlines of political tension and strained press relations, this verse gently redirects our gaze from human institutions to something steadier. It's not a call to cynicism about leaders or media, but an invitation to root our peace in something beyond the news cycle."
       }
     },
     {
@@ -95,27 +97,28 @@
       "articles": [
         {
           "id": "business-0",
-          "publishedAt": "2026-09-19T12:15:53Z",
-          "headline": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+          "publishedAt": "2026-09-22T13:03:56Z",
+          "headline": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
           "source": "BBC News",
-          "summary": "According to BBC News, Warren Buffett has stepped down after leading Berkshire Hathaway for six decades. The report notes that since taking control of the company in 1965, Buffett transformed a struggling textile mill into a global conglomerate.",
-          "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+          "description": "",
+          "summary": "Ineos, led by Sir Jim Ratcliffe, has suspended production at several UK plants, citing high natural gas costs as the reason. According to the company, natural gas prices in the UK are roughly twelve times higher than in the United States, making continued operations there uncompetitive.",
+          "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         },
         {
           "id": "business-1",
-          "publishedAt": "2026-09-19T12:15:53Z",
-          "headline": "Ever wonder how the Fed's interest rate actually works? We've got answers",
-          "source": "NPR Topics: Business",
-          "summary": "NPR reports that the Federal Reserve raised interest rates this week for the first time this year. The article explains how the rate-setting process works and what the change could mean for the broader economy and everyday consumers.",
-          "url": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
-          "trustNote": "Single source: NPR Topics: Business"
+          "publishedAt": "2026-09-22T13:03:56Z",
+          "headline": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+          "source": "BBC News",
+          "summary": "Paramount has reached a settlement with a group of US state attorneys general, removing a legal obstacle to its roughly $110 billion merger with Warner Bros. Discovery, according to BBC News and NPR. As part of the agreement, Paramount has committed to producing 30 films a year or risk being forced to sell parts of the combined company.",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 outlets: BBC News and NPR"
         }
       ],
       "verse": {
-        "reference": "Ecclesiastes 3:1",
-        "text": "To everything there is a season, and a time for every purpose under heaven.",
-        "reflection": "Warren Buffett's decision to step down after sixty years reminds us that every calling has its season, even one built with great skill and patience. As the Fed adjusts its course and markets shift beneath us, this verse invites trust that God holds the timing of both endings and new beginnings."
+        "reference": "Philippians 4:19",
+        "text": "But my God shall supply all your need according to his riches in glory by Christ Jesus.",
+        "reflection": "Rising energy costs and shifting corporate landscapes remind us how fragile human plans can be. This verse offers steady reassurance that provision ultimately rests in God's hands, even when markets and industries feel uncertain."
       }
     },
     {
@@ -123,27 +126,27 @@
       "articles": [
         {
           "id": "technology-0",
-          "publishedAt": "2026-09-19T12:16:10Z",
-          "headline": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-          "source": "BBC News",
-          "summary": "King Charles convened a summit in Ayrshire, Scotland, bringing together leaders from artificial intelligence companies including Nvidia, OpenAI, and Anthropic, according to the BBC and NPR. At the gathering, he warned of the 'existential danger' AI could pose if it falls into the wrong hands, reflecting broader concerns about the technology's potential risks to humanity.",
-          "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
+          "publishedAt": "2026-09-22T13:04:14Z",
+          "headline": "The data center backlash is reshaping American politics — one community at a time",
+          "source": "NPR Topics: Technology",
+          "summary": "According to NPR, opposition to data centers has grown into a major political movement across the United States in 2026, with communities questioning the economic and job impacts when a facility is built nearby. NPR reports the debate is cutting across traditional political party lines and creating new local alliances as residents weigh the promised benefits against concerns about resources and quality of life.",
+          "url": "https://www.npr.org/2026/09/22/nx-s1-5945009/data-centers-are-a-flashpoint-in-the-u-s-but-what-happens-when-one-comes-to-town",
+          "trustNote": "Corroborated by 2 NPR articles on the same trend"
         },
         {
           "id": "technology-1",
-          "publishedAt": "2026-09-19T12:16:10Z",
+          "publishedAt": "2026-09-22T13:04:14Z",
           "headline": "Google's Gemini AI hacked three companies in security test",
           "source": "BBC News",
-          "summary": "A Google official told the BBC that the company's Gemini AI model accessed the internet and guessed login credentials to breach the websites of three companies during a security test. The incident illustrates emerging concerns about AI systems' capacity to autonomously identify and exploit security vulnerabilities.",
+          "summary": "The BBC reports that Google's Gemini AI model successfully accessed the internet and guessed login credentials to breach three companies during a security test. A Google official confirmed the details to the BBC, highlighting growing questions about the offensive capabilities of advanced AI systems.",
           "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Proverbs 9:10",
-        "text": "The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is understanding.",
-        "reflection": "As world leaders and technologists grapple with the immense power and risks of artificial intelligence, this verse reminds us that true wisdom begins not with technical mastery alone, but with humility before God. May those shaping AI's future seek discernment that goes deeper than human ingenuity."
+        "reference": "James 1:5",
+        "text": "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.",
+        "reflection": "As communities wrestle with data centers reshaping their towns and as AI systems reveal new and unsettling capabilities, this is a season that calls for wisdom beyond our own. It's a good reminder to bring even our technological anxieties honestly before God, trusting He gives wisdom freely to those who ask."
       }
     },
     {
@@ -151,27 +154,27 @@
       "articles": [
         {
           "id": "health-0",
-          "publishedAt": "2026-09-19T12:16:24Z",
-          "headline": "Doctors raise concerns about views and experience of members on federal task force",
+          "publishedAt": "2026-09-22T13:04:33Z",
+          "headline": "Abortion is on the ballot again as post-Roe policies continue to evolve",
           "source": "NPR Topics: Health",
-          "summary": "According to NPR, Health Secretary Robert F. Kennedy Jr. has named new members to the U.S. Preventive Services Task Force, a body that helps determine what preventive care people receive. NPR reports that the new appointees are largely specialists rather than experts in preventive or general medicine, a shift some physicians say departs from the task force's traditional composition and raises concerns about its direction.",
-          "url": "https://www.npr.org/2026/09/18/nx-s1-5973135/doctors-raise-concerns-about-views-and-experience-of-members-on-federal-task-force",
+          "summary": "According to NPR, four U.S. states will vote on abortion-related ballot measures in the upcoming November election. NPR reports these measures continue to develop in the wake of the Supreme Court's Dobbs decision, which ended federal abortion protections and returned the issue to individual states.",
+          "url": "https://www.npr.org/2026/09/22/nx-s1-5974318/election-voting-abortion-policies-roe",
           "trustNote": "Single source: NPR"
         },
         {
           "id": "health-1",
-          "publishedAt": "2026-09-19T12:16:24Z",
-          "headline": "New hope for breast cancer patients as life-extending drug now on NHS in England",
+          "publishedAt": "2026-09-22T13:04:33Z",
+          "headline": "Young people aren't snowflakes - mental distress is rising, says head of official review",
           "source": "BBC News",
-          "summary": "The BBC reports that the drug Enhertu, which studies show can extend patients' lives by an average of seven months, is now being made available through the NHS in England. According to the report, the medication has already been prescribed in Scotland for more than two years.",
-          "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "summary": "BBC News reports that Professor Peter Fonagy, leading an official review, says mental distress among young people is genuinely increasing and that growing up today is harder than in previous generations. In a related BBC report, young mental health ambassadors described feeling that older generations avoided discussing mental health and called for greater support for youth.",
+          "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single outlet (BBC News), reported across two separate pieces on the same theme"
         }
       ],
       "verse": {
-        "reference": "Proverbs 11:14",
-        "text": "Where there is no guidance, a people falls, but in an abundance of counselors there is safety.",
-        "reflection": "Today's headlines remind us how much rides on wise counsel — whether in shaping health policy or in decisions that extend a patient's life. May those entrusted with such choices seek wisdom beyond their own understanding, and may we hold onto hope for healing, both medical and spiritual."
+        "reference": "Philippians 4:6-7",
+        "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+        "reflection": "Between contentious policy debates and a generation quietly carrying more anxiety than we may realize, today's news reminds us how much people are longing for peace. This verse invites us to bring both our public and personal burdens to God rather than carrying them alone."
       }
     },
     {
@@ -179,27 +182,27 @@
       "articles": [
         {
           "id": "science-0",
-          "publishedAt": "2026-09-19T12:16:36Z",
-          "headline": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
-          "source": "NPR Topics: Science",
-          "summary": "According to NPR, a bacterial infection continues to devastate Florida's citrus trees, threatening the state's citrus industry. Growers are hopeful that a new rootstock developed using gene-editing technology could help resist the disease and preserve orchards for the future.",
-          "url": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
-          "trustNote": "Single source: NPR Topics: Science"
+          "publishedAt": "2026-09-22T13:04:44Z",
+          "headline": "Developing El Niño becomes strongest on record weeks before expected peak",
+          "source": "BBC News",
+          "summary": "Scientists report that the current El Niño weather pattern has become the strongest on record, even before it is expected to reach its peak in the coming weeks. According to BBC News, its effects are already being felt in weather systems around the world.",
+          "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         },
         {
           "id": "science-1",
-          "publishedAt": "2026-09-19T12:16:36Z",
-          "headline": "An Alaska storm scattered artifacts. Archaeologists are racing to save what's left",
-          "source": "NPR Topics: Science",
-          "summary": "NPR reports that remnants of a typhoon last year damaged homes, infrastructure, and an archaeological dig site near Quinhagak, Alaska. Archaeologists are now working urgently to recover as many artifacts as possible before another storm strikes the vulnerable site.",
-          "url": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
-          "trustNote": "Single source: NPR Topics: Science"
+          "publishedAt": "2026-09-22T13:04:44Z",
+          "headline": "Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
+          "source": "BBC News",
+          "summary": "Typhoon Dujuan is tracking close to Tokyo, prompting a rare evacuation alert as the storm batters Japan, BBC News reports. More than 1.9 million people are currently under evacuation orders as authorities respond to the storm's approach.",
+          "url": "https://www.bbc.co.uk/news/videos/ckjrxpqxx2v3o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Genesis 2:15",
-        "text": "The Lord God took the man and put him in the garden of Eden to work it and keep it.",
-        "reflection": "From ancient artifacts threatened by storms to orchards threatened by disease, today's stories remind us that caring for what has been entrusted to us — land, history, and creation itself — is a calling as old as Eden. May we approach both discovery and preservation with the same diligence God asked of the first caretaker."
+        "reference": "Psalm 107:29",
+        "text": "He stilled the storm to a whisper; the waves of the sea were hushed.",
+        "reflection": "As record-breaking weather patterns and typhoons unsettle millions today, it's worth remembering a God who is not distant from the storms of this world. For those affected—whether by flooding, evacuation, or uncertainty—may this be a quiet reminder that calm can follow chaos."
       }
     },
     {
@@ -207,27 +210,27 @@
       "articles": [
         {
           "id": "faith-0",
-          "publishedAt": "2026-09-19T12:16:51Z",
-          "headline": "For American Jews divided over Israel, Yom Kippur is a test of families and community",
+          "publishedAt": "2026-09-22T13:05:06Z",
+          "headline": "As the US and China race on AI, the Vatican presses for global safeguards",
           "source": "RNS",
-          "summary": "According to an AP-NORC poll cited by RNS and NPR, four in ten American Jewish adults report disagreeing with a family member over Israel, and three in ten say they have stopped speaking to someone because of the issue. The report notes that these tensions are especially felt as Yom Kippur, a time traditionally focused on repentance and reconciliation, approaches.",
-          "url": "https://religionnews.com/2026/09/18/for-american-jews-divided-over-israel-yom-kippur-is-a-test-of-families-and-community/",
-          "trustNote": "Reported jointly by RNS and NPR, citing AP-NORC poll data."
+          "summary": "According to RNS, Pope Leo is positioning the Vatican as a moral voice in the global debate over artificial intelligence, seeking to serve as a bridge between the United States and China. Related RNS reporting notes that Bishop Oscar Cantú, chair of the US bishops' new AI task force, said the Church and the White House are 'not in sync' on AI policy and urged President Trump to look beyond national ambition in shaping AI regulation, while technology leaders are increasingly turning to Catholic institutions for ethical guidance.",
+          "url": "https://religionnews.com/2026/09/21/as-the-u-s-and-china-race-on-ai-the-vatican-presses-for-global-safeguards/",
+          "trustNote": "Corroborated by 3 related RNS articles on the Vatican's AI engagement."
         },
         {
           "id": "faith-1",
-          "publishedAt": "2026-09-19T12:16:51Z",
-          "headline": "Cissie Graham Lynch, granddaughter of Billy Graham, tapped for religious freedom ambassador",
+          "publishedAt": "2026-09-22T13:05:06Z",
+          "headline": "Knife attack on Sikh trucker in Wyoming stirs fresh fears in community",
           "source": "RNS",
-          "summary": "RNS reports that Cissie Graham Lynch, granddaughter of the late evangelist Billy Graham, has been nominated for the role of U.S. Ambassador-at-Large for International Religious Freedom. The position, pending Senate approval, has remained vacant since the start of the second Trump administration.",
-          "url": "https://religionnews.com/2026/09/17/cissie-graham-lynch-granddaughter-of-billy-graham-tapped-for-religious-freedom-ambassador/",
-          "trustNote": "Single source: RNS."
+          "summary": "RNS reports, citing the Associated Press, that a Sikh truck driver was attacked from behind with a knife early Sunday in a restroom at a rest stop on Interstate 80 in Wyoming, between Cheyenne and Salt Lake City. Court documents cited by AP indicate the attack has raised renewed concern within the Sikh community about safety and targeted violence.",
+          "url": "https://religionnews.com/2026/09/21/knife-attack-on-sikh-trucker-in-wyoming-stirs-fresh-fears-in-community/",
+          "trustNote": "Single source: RNS, citing Associated Press reporting."
         }
       ],
       "verse": {
-        "reference": "Ephesians 4:3",
-        "text": "Make every effort to keep the unity of the Spirit through the bond of peace.",
-        "reflection": "Whether it's families strained by disagreement over Israel or nations wrestling with how faith and freedom intersect in public life, today's news reminds us how easily division creeps into community. This verse invites us not to avoid hard conversations, but to hold them with humility, seeking peace without abandoning truth."
+        "reference": "Micah 6:8",
+        "text": "He has told you, O mortal, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?",
+        "reflection": "Whether it's world leaders weighing the power of new technology or a community shaken by violence against one of its own, today's news calls for the same humble balance of justice and mercy. May we pray for wisdom for those shaping powerful tools, and comfort and safety for those who feel vulnerable this morning."
       }
     },
     {
@@ -235,27 +238,27 @@
       "articles": [
         {
           "id": "sports-0",
-          "publishedAt": "2026-09-19T12:17:06Z",
-          "headline": "Brentford stay unbeaten as they put three past Chelsea",
+          "publishedAt": "2026-09-22T13:05:17Z",
+          "headline": "Arteta agrees new deal with champions Arsenal",
           "source": "BBC Sport",
-          "summary": "Brentford defeated Chelsea 3-0 at the Gtech Community Stadium, scoring three second-half goals to extend their unbeaten start to the Premier League season. Brentford manager Keith Andrews praised his team's performance as 'brilliant' and 'unpredictable,' while Chelsea manager Xabi Alonso said his side's overall performance was 'disappointing' and in need of improvement across the board, according to BBC Sport.",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated across 4 separate BBC Sport reports and manager interviews"
+          "summary": "Mikel Arteta has signed an improved new contract with Arsenal, according to BBC Sport. The move comes after Arteta led the club to the Premier League title, cementing his position as manager for the foreseeable future.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC Sport"
         },
         {
           "id": "sports-1",
-          "publishedAt": "2026-09-19T12:17:06Z",
-          "headline": "Hodgkinson powers to Athlos win in speed suit",
+          "publishedAt": "2026-09-22T13:05:17Z",
+          "headline": "England fast bowler Wood retires from internationals",
           "source": "BBC Sport",
-          "summary": "Great Britain's Keely Hodgkinson won the 800m at the Athlos event during its London debut, wearing a full-body custom speed suit, BBC Sport reported. She was presented with a Tiffany & Co crown after powering clear of the field to secure the victory.",
-          "url": "https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by 2 BBC Sport articles (report and video coverage)"
+          "summary": "England fast bowler Mark Wood has announced his retirement from international cricket with immediate effect, BBC Sport reports. The announcement marks the end of Wood's career representing England on the international stage.",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC Sport"
         }
       ],
       "verse": {
-        "reference": "1 Corinthians 9:24",
-        "text": "Do you not know that in a race all the runners run, but only one gets the prize? Run in such a way as to get the prize.",
-        "reflection": "Whether it's Hodgkinson crossing the line first or Brentford outplaying a rival, today's stories remind us that effort and preparation matter—but so does how we carry ourselves in victory and defeat. May we run our own races, on and off the field, with the same focus and grace."
+        "reference": "Ecclesiastes 3:1",
+        "text": "To everything there is a season, and a time to every purpose under heaven.",
+        "reflection": "Today's news holds both a new beginning and a farewell — Arteta stepping deeper into his role at Arsenal, and Mark Wood stepping away from England colours. Both remind us that careers, like seasons, have their appointed times, and there is grace in both starting and letting go."
       }
     },
     {
@@ -263,29 +266,27 @@
       "articles": [
         {
           "id": "entertainment-0",
-          "publishedAt": "2026-09-19T12:17:19Z",
-          "headline": "Tenko and Coronation Street actress Stephanie Cole dies aged 84",
+          "publishedAt": "2026-09-22T13:05:38Z",
+          "headline": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
           "source": "BBC News",
-          "description": "She was best known for playing Dr Beatrice Mason in the 1980s BBC wartime TV drama Tenko.",
-          "summary": "British actress Stephanie Cole has died at the age of 84, according to BBC News. She was widely recognized for her role as Dr. Beatrice Mason in the BBC's 1980s wartime drama Tenko, and also appeared in Coronation Street. Details of her death have been shared by outlets reporting on her long television career.",
-          "url": "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo?at_medium=RSS&at_campaign=rss",
+          "summary": "Presley Gerber, son of supermodel Cindy Crawford, has died, and his death is being investigated as a suspected overdose, according to BBC News. The family has asked for privacy during what they described as 'a very difficult and painful time,' the outlet reported.",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         },
         {
           "id": "entertainment-1",
-          "publishedAt": "2026-09-19T12:17:19Z",
-          "headline": "British rapper Sway dies aged 44",
+          "publishedAt": "2026-09-22T13:05:38Z",
+          "headline": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
           "source": "BBC News",
-          "description": "Sway, whose hits included Still Speedin' and Level Up, was living in Ghana at the time of his death.",
-          "summary": "British rapper Sway has died at age 44, BBC News reports. He was known for songs including 'Still Speedin'' and 'Level Up,' and was reportedly living in Ghana at the time of his passing. No further details on the cause of death were provided in the report.",
-          "url": "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go?at_medium=RSS&at_campaign=rss",
+          "summary": "According to BBC News, CNN, MS NOW, and Politico have filed a lawsuit challenging a White House ban affecting their press access. The report notes major U.S. networks had suspended television coverage of President Trump as he traveled to New York for a UN summit.",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Ecclesiastes 3:1-2",
-        "text": "There is a time for everything, and a season for every activity under the heavens: a time to be born and a time to die.",
-        "reflection": "News of two artists' passing today—one who shaped television drama, another who shaped music—reminds us that every life, however public or private, is held within God's larger story of time and eternity. May their families find comfort, and may we hold our own days a little more gently and gratefully."
+        "reference": "Psalm 34:18",
+        "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+        "reflection": "News of a young man's sudden death, and a family asking simply for privacy in their grief, reminds us that behind every headline are real people carrying real sorrow. This verse offers a quiet assurance that God draws near in exactly these moments, even when the world is watching and words feel inadequate."
       }
     }
   ],
