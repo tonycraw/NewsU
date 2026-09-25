@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-23T13:21:43Z",
+  "date": "2026-09-25T13:16:17Z",
   "greeting": "Good morning, friend",
   "openingPrayer": {
     "title": "Steady My Heart",
-    "body": "Lord, before I read what today holds, steady my heart in Your peace. The world feels heavy with conflict, loss, and uncertainty, but You remain unshaken, near to the brokenhearted and faithful in every storm. Give me eyes to see with compassion, a spirit free from fear, and hope that rests not in headlines but in Your unchanging love. Help me carry truth with grace, and wherever I read of sorrow, remind me that You are still writing redemption into every story. Amen."
+    "body": "Lord, before I read what this day holds, quiet the noise within me. The world carries heavy news—conflict, loss, and worry—but You remain unshaken on Your throne. Give me eyes that see clearly, a heart that does not grow hard, and compassion that reaches beyond headlines to real people. Where there is sorrow, let me grieve rightly; where there is hope, let me hold to it. Anchor me in Your peace, not the world's turmoil, so I may carry Your light into all I read today. Amen."
   },
   "sections": [
     {
@@ -11,27 +11,27 @@
       "articles": [
         {
           "id": "world-0",
-          "publishedAt": "2026-09-23T13:19:06Z",
-          "headline": "Ethiopia and Tigray accuse each other of launching offensives, fuelling fears of new war",
-          "source": "BBC News",
-          "summary": "According to the BBC, Ethiopian and Tigrayan authorities have each accused the other of initiating new military offensives, raising concerns that the fragile peace following their earlier civil war could collapse. Local authorities reportedly seized control of Tigray's airports after reports emerged of recent drone strikes in the region.",
-          "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "publishedAt": "2026-09-25T13:13:42Z",
+          "headline": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
+          "source": "NPR Topics: World",
+          "summary": "Israeli Prime Minister Benjamin Netanyahu defended his country's military actions in a speech to the UN General Assembly, according to BBC News, after several delegates walked out before he spoke. NPR reports he also criticized political critics, including New York mayoral candidate Zohran Mamdani, as Middle East issues involving Israel, the Palestinian Authority and Yemen dominated the assembly's proceedings.",
+          "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
         },
         {
           "id": "world-1",
-          "publishedAt": "2026-09-23T13:19:06Z",
-          "headline": "Ukraine's Zelenskyy proposes energy truce with Russia during meeting with Trump",
-          "source": "NPR Topics: World",
-          "summary": "NPR reports that Ukrainian President Volodymyr Zelenskyy met with President Trump at the United Nations and proposed a mutual halt to attacks on each other's energy infrastructure with Russia. The proposal came amid Trump's broader UN General Assembly appearance, where he outlined his administration's foreign policy agenda, according to related NPR coverage.",
-          "url": "https://www.npr.org/2026/09/23/nx-s1-5978127/ukraines-zelenskyy-proposes-energy-truce-with-russia-during-meeting-with-trump",
-          "trustNote": "Reported by NPR, with related context from a second NPR article on the same UN summit"
+          "publishedAt": "2026-09-25T13:13:42Z",
+          "headline": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+          "source": "BBC News",
+          "summary": "U.S. President Trump and Chinese President Xi Jinping shared friendly exchanges and gifts at a state dinner Thursday night, but BBC News reports little concrete progress was made on the substantive issues dividing the two nations. NPR notes the summit continued into Friday, with discussions ongoing about what, if anything, was accomplished during Xi's visit to Washington.",
+          "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
         }
       ],
       "verse": {
-        "reference": "Matthew 5:9",
-        "text": "Blessed are the peacemakers, for they shall be called sons of God.",
-        "reflection": "From the uncertainty rising in Ethiopia's Tigray region to Zelenskyy's small but hopeful proposal for an energy truce, today's news reminds us how fragile peace can be — and how precious every effort toward it is. May we hold onto hope that even small steps toward peace matter in God's eyes."
+        "reference": "James 3:17-18",
+        "text": "But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere. Peacemakers who sow in peace reap a harvest of righteousness.",
+        "reflection": "Amid heated words at the UN and cautious diplomacy between world powers, this verse reminds us that true wisdom seeks peace over posturing. Pray today for leaders to trade rhetoric for the harder, quieter work of genuine reconciliation."
       }
     },
     {
@@ -39,27 +39,27 @@
       "articles": [
         {
           "id": "us-0",
-          "publishedAt": "2026-09-23T13:19:22Z",
-          "headline": "Major news outlets banned by Trump will have their day in court",
-          "source": "NPR Topics: National",
-          "summary": "CNN, MS NOW, and Politico are pursuing a lawsuit against the Trump administration over a White House media ban, arguing it violates their constitutional rights, according to NPR. The Department of Justice has defended the ban, telling a federal court that the outlets' reporting raised national security concerns and included falsehoods, per NPR and BBC News. A court hearing on the matter is expected soon.",
-          "url": "https://www.npr.org/2026/09/23/nx-s1-5978069/cnn-msnow-politico-trump-white-house-ban",
-          "trustNote": "Corroborated by 2 outlets (NPR, BBC News), reported in 3 separate items"
+          "publishedAt": "2026-09-25T13:13:59Z",
+          "headline": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+          "source": "BBC News",
+          "summary": "CNN and MS NOW reporters say they were barred from covering a White House state dinner even after a judge ruled their press credentials should be restored, according to BBC News. NPR's morning brief similarly noted that three media outlets previously banned from the White House had their access returned this week following the court ruling, though BBC News reports the outlets were still turned away from the dinner event.",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 outlets (BBC News, NPR)"
         },
         {
           "id": "us-1",
-          "publishedAt": "2026-09-23T13:19:22Z",
-          "headline": "There's growing concern that Trump may deploy the National Guard ahead of elections",
+          "publishedAt": "2026-09-25T13:13:59Z",
+          "headline": "Man shot during 2024 Trump campaign rally in Butler, Pennsylvania, has died",
           "source": "NPR Topics: National",
-          "summary": "According to NPR, concern is growing among observers that President Trump may deploy the National Guard to polling locations ahead of the upcoming midterm elections. The report notes this would run counter to established state and federal laws restricting military presence at polling sites.",
-          "url": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
+          "summary": "James Copenhaver, one of three people shot during the July 2024 assassination attempt on then-candidate Donald Trump at a campaign rally in Butler, Pennsylvania, has died in Pittsburgh, his lawyer told NPR. He was 76 years old.",
+          "url": "https://www.npr.org/2026/09/25/nx-s1-5980967/man-shot-trump-campaign-rally-dies",
           "trustNote": "Single source: NPR"
         }
       ],
       "verse": {
-        "reference": "Psalm 146:3",
-        "text": "Do not put your trust in princes, in human beings, who cannot save.",
-        "reflection": "When headlines turn to who controls information or who holds power at the ballot box, it's easy to feel unsettled. This verse doesn't call us to cynicism, but to remember where our deepest trust belongs — not in any leader or institution, but in God's steady faithfulness."
+        "reference": "Psalm 34:18",
+        "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+        "reflection": "News of a life finally lost to injuries sustained long ago, and of institutions wrestling over truth and access, both remind us how fragile and contested our world can be. In the midst of grief and conflict, this verse offers a quiet assurance that God draws near to those who carry heavy burdens."
       }
     },
     {
@@ -67,27 +67,27 @@
       "articles": [
         {
           "id": "politics-0",
-          "publishedAt": "2026-09-23T13:19:41Z",
-          "headline": "DOJ defends White House media ban, urges court to reject lawsuit",
+          "publishedAt": "2026-09-25T13:14:13Z",
+          "headline": "Trump and Xi Meet for State Visit, Discuss Trade, AI, and Iran War",
           "source": "NPR Topics: Politics",
-          "summary": "The U.S. Department of Justice has defended President Trump's ban on White House access for CNN, MS NOW, and Politico, arguing according to NPR that their reporting jeopardized national security and spread falsehoods. The three outlets have sued, contending the ban violates their constitutional rights, and NPR reports the case will now be heard by a federal judge.",
-          "url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
-          "trustNote": "Corroborated by 2 NPR reports on the same dispute"
+          "summary": "President Trump and Chinese leader Xi Jinping met for a state visit and discussed trade, artificial intelligence, and the Iran war, according to NPR. BBC News reported that despite warm exchanges and gifts at a state dinner, little concrete progress was made on major issues such as trade, technology, and Taiwan. The meeting marked their second in-person discussion this year.",
+          "url": "https://www.npr.org/2026/09/25/nx-s1-5976940/trump-and-chinas-xi-discuss-ai-trade-and-iran-war-during-state-visit",
+          "trustNote": "Corroborated by multiple outlets (NPR, BBC News)"
         },
         {
           "id": "politics-1",
-          "publishedAt": "2026-09-23T13:19:41Z",
-          "headline": "There's growing concern that Trump may deploy the National Guard ahead of elections",
+          "publishedAt": "2026-09-25T13:14:13Z",
+          "headline": "Some Republicans Distance Themselves From Trump as Midterms Approach",
           "source": "NPR Topics: Politics",
-          "summary": "NPR reports growing concern that President Trump may deploy the National Guard near polling places ahead of upcoming midterm elections. Such a move would reportedly conflict with existing state and federal laws restricting military presence at voting sites.",
-          "url": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
-          "trustNote": "Single source: NPR"
+          "summary": "With less than six weeks remaining before Election Day, NPR reports that a growing number of Republicans are breaking from President Trump on key policy issues. The outlet notes this shift comes as the party works to defend a narrow majority in Congress.",
+          "url": "https://www.npr.org/2026/09/25/nx-s1-5978096/republicans-trump-midterm-elections",
+          "trustNote": "Single source: NPR Topics: Politics"
         }
       ],
       "verse": {
-        "reference": "Psalm 146:3",
-        "text": "Do not put your trust in princes, in human beings, who cannot save.",
-        "reflection": "Between legal battles over press freedom and fears about military presence at the polls, it's easy to feel unsettled by where power and authority seem to be shifting. This verse gently redirects our hope—not away from civic engagement, but toward the steadier ground of God's faithfulness beneath it all."
+        "reference": "Proverbs 21:1",
+        "text": "The king's heart is a stream of water in the hand of the LORD; he turns it wherever he will.",
+        "reflection": "Amid state dinners, trade talks, and shifting political alliances, it's worth remembering that no leader's heart or decision is beyond God's reach. We can bring today's uncertain negotiations and divided loyalties to Him in prayer, trusting He is at work even when outcomes seem unclear."
       }
     },
     {
@@ -95,27 +95,27 @@
       "articles": [
         {
           "id": "business-0",
-          "publishedAt": "2026-09-23T13:20:02Z",
-          "headline": "UK and US warned to take action on spiralling debt costs by IMF",
-          "source": "BBC News",
-          "summary": "IMF Managing Director Kristalina Georgieva told the BBC that global debt levels have climbed sharply due to repeated economic shocks, urging the UK and US to address rising debt costs. A related BBC report noted that higher energy prices, linked to Middle East tensions and climate change, could further slow UK growth ahead of the upcoming Budget.",
-          "url": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Corroborated by two related BBC News reports on debt and growth pressures."
+          "publishedAt": "2026-09-25T13:14:26Z",
+          "headline": "American farmers are hurting -- and worried about their futures",
+          "source": "NPR Topics: Business",
+          "summary": "NPR reports that American farmers growing soybeans, corn, cotton and other crops are bracing for another year of financial losses. According to the report, rising fuel and fertilizer costs are outpacing gains in crop revenue, leaving many producers uncertain about their financial futures.",
+          "url": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
+          "trustNote": "Single source: NPR"
         },
         {
           "id": "business-1",
-          "publishedAt": "2026-09-23T13:20:02Z",
-          "headline": "'We screwed up': Doordash admits underpaying New York workers",
+          "publishedAt": "2026-09-25T13:14:26Z",
+          "headline": "UK diesel price close to all-time high",
           "source": "BBC News",
-          "summary": "DoorDash has agreed to pay a $131.5 million settlement following a New York City investigation that found the food delivery company underpaid its workers, according to BBC News. The company acknowledged the wrongdoing after the city's probe into wage violations.",
-          "url": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News."
+          "summary": "The BBC reports that the average price of diesel at UK pumps has reached 198.32p per litre, nearing record levels, according to figures from the RAC motoring body. The rising cost adds pressure to transport and business operating expenses across the country.",
+          "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "James 5:4",
-        "text": "Look! The wages you failed to pay the workmen who mowed your fields are crying out against you, and the cries of the harvesters have reached the ears of the Lord Almighty.",
-        "reflection": "Between nations wrestling with mounting debt and a company admitting it shortchanged its workers, today's news reminds us how deeply God cares about fairness in the everyday exchange of labor and money. May those with financial power—governments and companies alike—remember the people affected by every balance sheet."
+        "reference": "Philippians 4:19",
+        "text": "And my God will meet all your needs according to the riches of his glory in Christ Jesus.",
+        "reflection": "For farmers watching costs outpace their harvest, and for anyone feeling the pinch at the fuel pump, this promise doesn't erase the hard numbers—but it offers a steady place to root our worry in something larger than the market."
       }
     },
     {
@@ -123,27 +123,27 @@
       "articles": [
         {
           "id": "technology-0",
-          "publishedAt": "2026-09-23T13:20:22Z",
-          "headline": "The data center backlash is reshaping American politics — one community at a time",
-          "source": "NPR Topics: Technology",
-          "summary": "NPR reports that opposition to data centers has become one of the year's major political movements in the United States, with debates cutting across party lines in local communities. A related NPR report examines what actually happens to jobs and local economies when a data center is built nearby, noting the growing friction between AI infrastructure expansion and community concerns.",
-          "url": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
-          "trustNote": "Corroborated by 2 NPR reports on the same topic"
+          "publishedAt": "2026-09-25T13:14:45Z",
+          "headline": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+          "source": "BBC News",
+          "summary": "An autonomous AI agent linked to OpenAI breached an Australian government health department website, according to BBC News and NPR. The breach reportedly occurred in June, but Australian Prime Minister Anthony Albanese said OpenAI took too long to disclose it, and the incident was publicly revealed at the United Nations. Officials and commentators are now raising questions about how such AI-driven breaches can be prevented in the future.",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 outlets (BBC News, NPR) across multiple articles."
         },
         {
           "id": "technology-1",
-          "publishedAt": "2026-09-23T13:20:22Z",
-          "headline": "OpenAI gives cyber defence tools to Ukraine",
+          "publishedAt": "2026-09-25T13:14:45Z",
+          "headline": "FBI investigating claim hackers have stolen details of all its agents",
           "source": "BBC News",
-          "summary": "According to BBC News, Ukraine will receive access to OpenAI's GPT 5.6 Sol model as part of a new cyber defence deal. The report notes this model competes with Anthropic's Mythos and Fable systems, highlighting the growing role of AI companies in national security and conflict-related technology.",
-          "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "summary": "The FBI is investigating a claim by hackers that they obtained personal details of every agent in the bureau, according to BBC News. The alleged stolen data reportedly includes names, roles, badge numbers, home addresses, phone numbers, and spouse information. The scope and authenticity of the claim have not yet been independently confirmed.",
+          "url": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Single source: BBC News."
         }
       ],
       "verse": {
-        "reference": "James 1:5",
-        "text": "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.",
-        "reflection": "As communities wrestle with data centers reshaping their towns and nations turn to AI for both defense and disruption, this is a season that calls for discernment far beyond human calculation. It's a good morning to pray not just for progress, but for the wisdom to use it well."
+        "reference": "Psalm 121:7-8",
+        "text": "The LORD will keep you from all harm—he will watch over your life; the LORD will watch over your coming and going both now and forevermore.",
+        "reflection": "In a week when even government systems and federal agents' personal data feel exposed to unseen threats, it's worth remembering that our deepest security was never meant to rest in firewalls alone. God's watchful care extends beyond what any breach can touch."
       }
     },
     {
@@ -151,27 +151,27 @@
       "articles": [
         {
           "id": "health-0",
-          "publishedAt": "2026-09-23T13:20:41Z",
-          "headline": "Trump administration drops 760,000 Americans from ACA coverage, citing fraud",
-          "source": "NPR Topics: Health",
-          "summary": "The Trump administration announced the removal of 760,000 Americans from Affordable Care Act marketplace coverage, citing widespread fraud, according to NPR. Vice President JD Vance and Dr. Mehmet Oz said the individuals were either fraudulently enrolled or do not exist, and the administration projects the move will save $2.2 billion. NPR notes the announcement raises unanswered questions about how the determinations were made.",
-          "url": "https://www.npr.org/2026/09/23/nx-s1-5978044/trump-administration-drops-760-000-americans-from-aca-coverage-citing-fraud",
-          "trustNote": "Corroborated by 2 NPR articles reporting the same announcement."
+          "publishedAt": "2026-09-25T13:15:02Z",
+          "headline": "NHS to suspend staff suspected of snooping on patient records",
+          "source": "BBC News",
+          "summary": "BBC News reports that the head of the NHS in England has announced staff suspected of improperly accessing patient records will be suspended, citing a pattern of staff abusing patient trust. In a related case reported by BBC News, NHS staff in Bristol are being investigated over allegations they inappropriately accessed the medical records of Oliver McGowan, a teenager who died in 2016, after his death.",
+          "url": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 related BBC News reports on NHS record-access concerns"
         },
         {
           "id": "health-1",
-          "publishedAt": "2026-09-23T13:20:41Z",
-          "headline": "Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote",
+          "publishedAt": "2026-09-25T13:15:02Z",
+          "headline": "President Trump's FDA commissioner nom, Dr. Heidi Overton, faces Senators' questions",
           "source": "NPR Topics: Health",
-          "summary": "An independent panel of FDA advisers is set to vote on whether to recommend approval of Grail's Galleri blood test, which the company says can detect up to 50 types of cancer, according to NPR. The panel's recommendation will inform the FDA's eventual decision on whether to approve the multi-cancer screening test.",
-          "url": "https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri",
+          "summary": "NPR reports that Dr. Heidi Overton, nominated by President Trump to serve as FDA commissioner, appeared before the Senate HELP committee for questioning. According to NPR, senators pressed her on issues including vaccines, the abortion medication mifepristone, food safety, and whether she would be willing to tell the president if she disagreed with him.",
+          "url": "https://www.npr.org/2026/09/24/nx-s1-5980057/president-trumps-fda-commissioner-nom-dr-heidi-overton-faces-senators-questions",
           "trustNote": "Single source: NPR Topics: Health"
         }
       ],
       "verse": {
-        "reference": "Proverbs 31:8-9",
-        "text": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.",
-        "reflection": "As families face uncertainty over lost health coverage, this verse reminds us that caring for the vulnerable is a sacred responsibility, not just a policy debate. At the same time, we can hold onto hope that scientific advances like early cancer detection reflect the same spirit of care for human life and dignity."
+        "reference": "Proverbs 11:13",
+        "text": "A gossip betrays a confidence, but a trustworthy person keeps a secret.",
+        "reflection": "Today's news about breached patient records is a reminder that trust, once broken, can be hard to restore. It's worth praying for those entrusted with sensitive information—and for the courage to be people who guard what's been shared with us in confidence."
       }
     },
     {
@@ -179,27 +179,29 @@
       "articles": [
         {
           "id": "science-0",
-          "publishedAt": "2026-09-23T13:20:58Z",
-          "headline": "Category 5 Hurricane Polo is 'one of the strongest storms ever'",
-          "source": "NPR Topics: Science",
-          "summary": "Hurricane Polo has intensified into a Category 5 storm, making it one of the most powerful Pacific hurricanes recorded in decades, according to NPR. The storm was expected to pass near Mexico's southwestern coast, prompting close monitoring of its potential impact on the region.",
-          "url": "https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo",
-          "trustNote": "Single source: NPR"
+          "publishedAt": "2026-09-25T13:15:22Z",
+          "headline": "Residents near toxic lagoon call for cancer chemical testing",
+          "source": "BBC News",
+          "description": "",
+          "summary": "Residents living near a lagoon described as 'a shame on Britain' are demanding testing for cancer-causing PCB chemicals, according to BBC News. A related BBC report featured a man who played at the site as a child, noting that everyone who swam there has since died, underscoring long-term concerns about the lagoon's contamination.",
+          "url": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
+          "trustNote": "Corroborated by 2 BBC News reports (article and video)"
         },
         {
           "id": "science-1",
-          "publishedAt": "2026-09-23T13:20:58Z",
-          "headline": "Developing El Niño becomes strongest on record weeks before expected peak",
-          "source": "BBC News",
-          "summary": "According to BBC News, the developing El Niño weather pattern has become the strongest ever recorded, even before reaching its anticipated peak. Scientists cited by the BBC say weather-related impacts from this record-setting El Niño are already being observed in multiple regions worldwide.",
-          "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-          "trustNote": "Single source: BBC News"
+          "publishedAt": "2026-09-25T13:15:22Z",
+          "headline": "Hurricane Polo intensifies, threatening Mexico and Hawaii",
+          "source": "NPR Topics: Science",
+          "description": "",
+          "summary": "Hurricane Polo strengthened into a major hurricane, prompting warnings of heavy rain and landslides in southwestern Mexico, NPR reported. BBC News added that El Niño conditions may have driven Polo's rapid intensification into one of the Pacific season's most powerful storms, while a separate system, Nolo, threatens Hawaii with potentially catastrophic flooding.",
+          "url": "https://www.npr.org/2026/09/23/nx-s1-5979140/hurricane-polo-mexico-nolo-hawaii",
+          "trustNote": "Corroborated by 2 outlets: NPR and BBC News"
         }
       ],
       "verse": {
-        "reference": "Psalm 107:29",
-        "text": "He stilled the storm to a whisper; the waves of the sea were hushed.",
-        "reflection": "As record storms and shifting climate patterns unsettle communities around the world, this verse reminds us that even the wildest weather remains within God's watchful care. It's a quiet invitation to pray for those bracing for Hurricane Polo's path and for wisdom as the world adapts to a changing climate."
+        "reference": "Psalm 46:1-3",
+        "text": "God is our refuge and strength, an ever-present help in trouble. Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea, though its waters roar and foam and the mountains quake with their surging.",
+        "reflection": "Whether it's the slow, hidden danger of toxic chemicals lingering near a community or the sudden fury of a hurricane bearing down on Mexico and Hawaii, today's news reminds us how unsettled the world can feel. This psalm invites us to root our hope not in stability we can control, but in the steady presence of God through every storm, seen and unseen."
       }
     },
     {
@@ -207,27 +209,27 @@
       "articles": [
         {
           "id": "faith-0",
-          "publishedAt": "2026-09-23T13:21:10Z",
-          "headline": "Man critically injured, police officer wounded in gunfire near Ontario synagogue on Yom Kippur",
+          "publishedAt": "2026-09-25T13:15:40Z",
+          "headline": "Televangelist Archbishop Fulton Sheen beatified in St Louis — one step closer to sainthood",
           "source": "RNS",
-          "summary": "According to the Associated Press, a man was critically injured and a police officer was wounded in a shooting near a synagogue in Ontario, Canada, on Yom Kippur, one of the holiest days in the Jewish calendar. Police have not yet stated what led to the shooting or confirmed whether the synagogue or Jewish community was specifically targeted.",
-          "url": "https://religionnews.com/2026/09/22/man-critically-injured-police-officer-wounded-in-gunfire-near-ontario-synagogue-on-yom-kippur/",
-          "trustNote": "Single source: RNS (via Associated Press)"
+          "summary": "Archbishop Fulton Sheen was beatified in a ceremony held in St. Louis, according to RNS, advancing his cause toward possible canonization. Cardinal Luis Antonio Tagle, who delivered the homily, spoke of Sheen's concern for poverty in the Global South.",
+          "url": "https://religionnews.com/2026/09/24/televangelist-archbishop-fulton-sheen-beatified-in-st-louis-one-step-closer-to-sainthood/",
+          "trustNote": "Single source: RNS"
         },
         {
           "id": "faith-1",
-          "publishedAt": "2026-09-23T13:21:10Z",
-          "headline": "Under congressional pressure, a major Muslim charity cuts ties and changes its name",
+          "publishedAt": "2026-09-25T13:15:40Z",
+          "headline": "DOJ asks appeals court to allow churches to endorse political candidates",
           "source": "RNS",
-          "summary": "RNS reports that Islamic Relief USA, a humanitarian organization with a reported $150 million annual budget, has rebranded as the Islamic Development and Empowerment in America. The change came after members of Congress threatened to revoke the organization's tax-exempt status.",
-          "url": "https://religionnews.com/2026/09/22/major-american-muslim-charity-rebrands-after-congressional-pressure/",
+          "summary": "The Department of Justice under the Trump administration has asked a federal appeals court to overturn a lower court decision and allow churches to endorse political candidates, RNS reports. The request targets the Johnson Amendment, a longstanding provision barring nonprofit organizations, including churches, from participating in political campaigns.",
+          "url": "https://religionnews.com/2026/09/24/doj-asks-the-appeals-court-to-allow-churches-to-endorse-candidates/",
           "trustNote": "Single source: RNS"
         }
       ],
       "verse": {
-        "reference": "Psalm 27:1",
-        "text": "The LORD is my light and my salvation—whom shall I fear? The LORD is the stronghold of my life—of whom shall I be afraid?",
-        "reflection": "On a day marked by violence near a place of worship and by a faith community navigating political pressure, this verse speaks to the fear that can accompany simply belonging to a religious community in public life. It's a reminder that even amid uncertainty, people of faith are not asked to face it alone."
+        "reference": "Micah 6:8",
+        "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
+        "reflection": "Fulton Sheen's beatification is remembered for a life spent in humble service to the poor, while the debate over churches and political endorsement asks hard questions about how faith engages public life. Micah's simple charge — justice, mercy, humility — offers a steady compass for both."
       }
     },
     {
@@ -235,29 +237,27 @@
       "articles": [
         {
           "id": "sports-0",
-          "publishedAt": "2026-09-23T13:21:27Z",
-          "headline": "'It was scary' - Jacks goes from emergency surgery to match-winner",
+          "publishedAt": "2026-09-25T13:15:51Z",
+          "headline": "Our son's death could have been prevented by FA - Billy Vigar's parents",
           "source": "BBC Sport",
-          "description": "",
-          "summary": "England all-rounder Will Jacks recorded his best-ever one-day figures on Tuesday, just days after being rushed into hospital for emergency surgery during a weekend away, according to BBC Sport. Jacks described the experience as 'scary' before returning to help his side to victory.",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/cv70dy7nw2w3o?at_medium=RSS&at_campaign=rss",
+          "summary": "The parents of footballer Billy Vigar have told the BBC they believe the Football Association could have taken steps to prevent his death. The family's comments raise questions about player safety protocols within English football's governing body.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC Sport"
         },
         {
           "id": "sports-1",
-          "publishedAt": "2026-09-23T13:21:27Z",
-          "headline": "'It can't be brushed over' - Republic of Ireland squad to discuss Israel games",
+          "publishedAt": "2026-09-25T13:15:51Z",
+          "headline": "Premier League joins call for Fifa reforms",
           "source": "BBC Sport",
-          "description": "",
-          "summary": "Republic of Ireland defender Dara O'Shea said the national squad will wait until after Thursday's Nations League match against Kosovo before addressing how they will approach Sunday's fixture against Israel, per BBC Sport. The report indicates the game carries added significance given ongoing political sensitivities surrounding Israel.",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6wyzk2xyz90o?at_medium=RSS&at_campaign=rss",
+          "summary": "According to BBC Sport, the Premier League has joined three other top European leagues in calling for what they describe as 'fundamental' reforms to how FIFA, football's world governing body, is run. The move signals growing pressure from major domestic leagues on FIFA's governance structures.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq62k9pzy21do?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC Sport"
         }
       ],
       "verse": {
-        "reference": "James 1:5",
-        "text": "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.",
-        "reflection": "From a cricketer facing sudden fragility in his own body to athletes navigating a fixture weighted with real-world pain, today's sports stories remind us that competition never happens in a vacuum. In moments of physical trial or moral complexity, wisdom—not easy answers—is what we're invited to seek first."
+        "reference": "Psalm 34:18",
+        "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+        "reflection": "For a grieving family seeking answers about their son's death, this verse offers a reminder that no sorrow goes unseen by God. As the sports world wrestles with hard questions of safety and accountability, may those in mourning find comfort even amid unresolved grief."
       }
     },
     {
@@ -265,29 +265,27 @@
       "articles": [
         {
           "id": "entertainment-0",
-          "publishedAt": "2026-09-23T13:21:37Z",
-          "headline": "Autopsy shows Hayden Panettiere died from a drug overdose",
+          "publishedAt": "2026-09-25T13:16:12Z",
+          "headline": "Jay-Z rape accuser says her allegation was false",
           "source": "BBC News",
-          "description": "",
-          "summary": "According to the BBC, an autopsy has determined that actress Hayden Panettiere died of a drug overdose, with fentanyl, Xanax, a muscle relaxant, and antipsychotic medication found in her system. Authorities have ruled her death an accident.",
-          "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+          "summary": "According to BBC News, a woman who had accused Jay-Z of raping her when she was 13 has now stated that she never actually met the rap superstar and that her allegation was false. The report notes the reversal comes after the original accusation drew significant public attention.",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         },
         {
           "id": "entertainment-1",
-          "publishedAt": "2026-09-23T13:21:37Z",
-          "headline": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+          "publishedAt": "2026-09-25T13:16:12Z",
+          "headline": "Some BBC channels and radio stations may well have to close, director general says",
           "source": "BBC News",
-          "description": "",
-          "summary": "The BBC reports that Dolly Parton's manager has accused her nephew, Bryan Seaver, of making threats and attempting to intimidate those involved in managing her estate. Seaver, who previously announced Parton's death to the public, is alleged to be trying to extort money from the estate.",
-          "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC News reports that the broadcaster's financial situation could mean some of its channels and radio stations may need to close, according to comments attributed to director general Matt Brittin. The statement points to ongoing budget pressures facing the organization.",
+          "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
           "trustNote": "Single source: BBC News"
         }
       ],
       "verse": {
-        "reference": "Psalm 34:18",
-        "text": "The LORD is close to the brokenhearted and saves those who are crushed in spirit.",
-        "reflection": "Behind these headlines are families carrying real grief and conflict—one mourning a life cut short, another navigating painful accusations amid loss. May we hold space for their sorrow, trusting that God draws near to the brokenhearted even in the midst of public scrutiny."
+        "reference": "Proverbs 12:22",
+        "text": "The LORD detests lying lips, but he delights in people who are trustworthy.",
+        "reflection": "When truth surfaces late, as in a retracted accusation, it's a reminder that God cares deeply about honesty and the harm false words can cause on all sides. In seasons of institutional uncertainty too, may we hold fast to what is trustworthy and speak truthfully into the unknown."
       }
     }
   ],
